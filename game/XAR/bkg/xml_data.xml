@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webinfo>
+  <news_info>
+           <newad id="1" title="《大冲锋》停运公告" url="http://fc.xunlei.com/c/1525867214396.shtml" date="05-09" type="公告" strong="Y" red="Y" />
+           <newad id="2" title="《大冲锋》运营公告" url="http://fc.xunlei.com/c/1518078697134.shtml" date="02-08" type="公告" strong="Y" red="Y" />
+           <newad id="3" title="《大冲锋》版本停机维护公告" url="http://fc.xunlei.com/c/1513732986467.shtml" date="12-29" type="公告" strong="Y" red="Y" />
+           <newad id="4" title="《大冲锋》十元夺宝活动公告" url="http://fc.xunlei.com/c/1511246376299.shtml" date="12-19" type="公告" strong="Y" red="Y" />
+           <newad id="5" title="12月16日《大冲锋》版本停机维护公告" url="http://fc.xunlei.com/c/1492081922071.shtml" date="12-16" type="公告" strong="Y" red="N" />
+       </news_info>   
+  <adpic_info>
+            <lunbo id="1" title="最强跑道" src="http://img.fc.kanimg.com/bdvs/images/148905439158542.png" url="http://act.niu.xunlei.com/2017/fclot/" />
+            <lunbo id="2" title="十元夺宝" src="http://img.fc.kanimg.com/bdvs/images/149804846672441.png" url="http://fc.xunlei.com/act/sydb/" />
+        </adpic_info>
+    <update_bkg id="1" title="更新图片-无" src="http://img.fc.kanimg.com/bdvs/images/137569132861979.jpg" />
+      <big_bkg id="1" title="大背景" src="http://img.fc.kanimg.com/bdvs/images/137569126363166.png" />
+      <small_bkg id="1" title="小北京" src="http://img.fc.kanimg.com/bdvs/images/13756912946918.png" url="#" />
+  </webinfo>

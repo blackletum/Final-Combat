@@ -1,0 +1,1994 @@
+version : 1.0.6.8166
+time : 2026.06.10 22:28:09.161
+os : 
+cpu : AMD Ryzen 5 5600X 6-Core Processor             
+memory : 4095Mb
+path : D:\Development\FinalCombat-files\FinalCombat\game
+idealprocessor : 2
+-----MainThread Tid = 24388, ResourceThread Tid = 26052-----
+lfh ok : 1690000
+lfh2 ok : 4260000
+lfh3 : 0
+WeaponDescription[2], illegal color index
+resource load error : /lang/zh_cn.lua
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[MD32].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[MD33].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5369].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5370].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5406].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD2000].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD2103].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD2202].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD2301].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD2402].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4418].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4585].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4586].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4587].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4588].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4589].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD4724].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5247].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5298].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5493].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5494].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5496].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5497].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD5588].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5810].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5811].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5625].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5626].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN5809].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[LD172].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6278].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6279].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6280].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6281].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6282].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6283].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6284].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6285].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SN6286].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6278].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6279].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6280].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6281].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6282].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6283].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6284].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6285].
+Key exist, langfile[/lang/zh_CN_info.lua], text_key[SD6286].
+GetText Failed, cur_lang[zh_CN], text_key[性能优先].
+GetText Failed, cur_lang[zh_CN], text_key[三线性].
+GetText Failed, cur_lang[zh_CN], text_key[无].
+GetText Failed, cur_lang[zh_CN], text_key[高].
+gpu : NVIDIA GeForce RTX 3070
+x = 1920, y = 1080
+GetText Failed, cur_lang[zh_CN], text_key[装备].
+GetText Failed, cur_lang[zh_CN], text_key[钻孔].
+GetText Failed, cur_lang[zh_CN], text_key[关   闭].
+GetText Failed, cur_lang[zh_CN], text_key[操作按键].
+GetText Failed, cur_lang[zh_CN], text_key[快捷按键].
+GetText Failed, cur_lang[zh_CN], text_key[查看信息].
+GetText Failed, cur_lang[zh_CN], text_key[发送邮件].
+GetText Failed, cur_lang[zh_CN], text_key[发送密语].
+GetText Failed, cur_lang[zh_CN], text_key[加为好友].
+GetText Failed, cur_lang[zh_CN], text_key[删除].
+GetText Failed, cur_lang[zh_CN], text_key[加入黑名单].
+GetText Failed, cur_lang[zh_CN], text_key[组队].
+GetText Failed, cur_lang[zh_CN], text_key[邀请].
+GetText Failed, cur_lang[zh_CN], text_key[加入].
+GetText Failed, cur_lang[zh_CN], text_key[XXX不在线].
+GetText Failed, cur_lang[zh_CN], text_key[欢迎来到推车模式].
+GetText Failed, cur_lang[zh_CN], text_key[推车到目标点].
+GetText Failed, cur_lang[zh_CN], text_key[团队竞技].
+GetText Failed, cur_lang[zh_CN], text_key[占点].
+GetText Failed, cur_lang[zh_CN], text_key[推车].
+GetText Failed, cur_lang[zh_CN], text_key[歼灭].
+GetText Failed, cur_lang[zh_CN], text_key[刀战].
+GetText Failed, cur_lang[zh_CN], text_key[爆破].
+GetText Failed, cur_lang[zh_CN], text_key[英雄].
+GetText Failed, cur_lang[zh_CN], text_key[生化].
+GetText Failed, cur_lang[zh_CN], text_key[审判].
+GetText Failed, cur_lang[zh_CN], text_key[道具战].
+GetText Failed, cur_lang[zh_CN], text_key[生化感染].
+GetText Failed, cur_lang[zh_CN], text_key[BOSS末日进化].
+GetText Failed, cur_lang[zh_CN], text_key[编辑].
+GetText Failed, cur_lang[zh_CN], text_key[TD].
+GetText Failed, cur_lang[zh_CN], text_key[杀人数].
+GetText Failed, cur_lang[zh_CN], text_key[时间].
+GetText Failed, cur_lang[zh_CN], text_key[回合数].
+GetText Failed, cur_lang[zh_CN], text_key[夺取数].
+GetText Failed, cur_lang[zh_CN], text_key[第一人称].
+GetText Failed, cur_lang[zh_CN], text_key[第三人称].
+GetText Failed, cur_lang[zh_CN], text_key[普通赛].
+GetText Failed, cur_lang[zh_CN], text_key[狙击战].
+GetText Failed, cur_lang[zh_CN], text_key[手枪战].
+GetText Failed, cur_lang[zh_CN], text_key[勇者攀登].
+GetText Failed, cur_lang[zh_CN], text_key[跳跳乐].
+GetText Failed, cur_lang[zh_CN], text_key[生存模式].
+GetText Failed, cur_lang[zh_CN], text_key[匹配模式].
+GetText Failed, cur_lang[zh_CN], text_key[常规].
+GetText Failed, cur_lang[zh_CN], text_key[模式].
+GetText Failed, cur_lang[zh_CN], text_key[趣味].
+GetText Failed, cur_lang[zh_CN], text_key[武器专精].
+GetText Failed, cur_lang[zh_CN], text_key[消费抵用券].
+GetText Failed, cur_lang[zh_CN], text_key[消费G币].
+GetText Failed, cur_lang[zh_CN], text_key[单颗手雷杀人数].
+GetText Failed, cur_lang[zh_CN], text_key[玩家跌死次数].
+GetText Failed, cur_lang[zh_CN], text_key[玩家拥有枪械数量].
+GetText Failed, cur_lang[zh_CN], text_key[玩家枪支改装次数].
+GetText Failed, cur_lang[zh_CN], text_key[收到的鲜花数].
+GetText Failed, cur_lang[zh_CN], text_key[死亡数].
+GetText Failed, cur_lang[zh_CN], text_key[进入服务器错误，请重新进入].
+GetText Failed, cur_lang[zh_CN], text_key[您已不再是新手了，去挑战更高级的玩家吧！].
+GetText Failed, cur_lang[zh_CN], text_key[您的战斗力不足，不能进入该服务器！].
+GetText Failed, cur_lang[zh_CN], text_key[您还需要更多的磨练才能进入，加油吧！].
+GetText Failed, cur_lang[zh_CN], text_key[该服务器已满，无法进入].
+GetText Failed, cur_lang[zh_CN], text_key[进入频道错误，请重新进入].
+GetText Failed, cur_lang[zh_CN], text_key[该频道已满，无法进入].
+GetText Failed, cur_lang[zh_CN], text_key[你已经在频道中，请不要重复点击].
+GetText Failed, cur_lang[zh_CN], text_key[你不能邀请他].
+GetText Failed, cur_lang[zh_CN], text_key[你无法邀请自己].
+GetText Failed, cur_lang[zh_CN], text_key[该玩家已在别的组队中].
+GetText Failed, cur_lang[zh_CN], text_key[该玩家已在你的组队中].
+GetText Failed, cur_lang[zh_CN], text_key[你不是队长].
+GetText Failed, cur_lang[zh_CN], text_key[组队人数已达上限].
+GetText Failed, cur_lang[zh_CN], text_key[加入组队失败].
+GetText Failed, cur_lang[zh_CN], text_key[该组队已不存在].
+GetText Failed, cur_lang[zh_CN], text_key[该组队人数已达上限].
+GetText Failed, cur_lang[zh_CN], text_key[召唤失败].
+GetText Failed, cur_lang[zh_CN], text_key[同账号已在线，请重新登陆].
+GetText Failed, cur_lang[zh_CN], text_key[无法创建房间].
+GetText Failed, cur_lang[zh_CN], text_key[频道的房间数已满].
+GetText Failed, cur_lang[zh_CN], text_key[你不能那么做].
+GetText Failed, cur_lang[zh_CN], text_key[你不是房主].
+GetText Failed, cur_lang[zh_CN], text_key[胜利条件不能修改].
+GetText Failed, cur_lang[zh_CN], text_key[游戏模式不能修改].
+GetText Failed, cur_lang[zh_CN], text_key[复活时间不能修改].
+GetText Failed, cur_lang[zh_CN], text_key[特殊模式不能修改].
+GetText Failed, cur_lang[zh_CN], text_key[死亡视角不能修改].
+GetText Failed, cur_lang[zh_CN], text_key[不能选择战队战].
+GetText Failed, cur_lang[zh_CN], text_key[无法进入该房间].
+GetText Failed, cur_lang[zh_CN], text_key[该房间已不存在].
+GetText Failed, cur_lang[zh_CN], text_key[该房间无法中途加入].
+GetText Failed, cur_lang[zh_CN], text_key[该房间没有足够的空位].
+GetText Failed, cur_lang[zh_CN], text_key[当前房间不可进或密码错误].
+GetText Failed, cur_lang[zh_CN], text_key[你已经被踢出房间，无法再次进入].
+GetText Failed, cur_lang[zh_CN], text_key[无法切换阵营].
+GetText Failed, cur_lang[zh_CN], text_key[你已在该阵营中].
+GetText Failed, cur_lang[zh_CN], text_key[你在准备状态，无法切换阵营].
+GetText Failed, cur_lang[zh_CN], text_key[人数不平衡，无法切换阵营].
+GetText Failed, cur_lang[zh_CN], text_key[你不能切换到该槽位].
+GetText Failed, cur_lang[zh_CN], text_key[你不能修改该槽位].
+GetText Failed, cur_lang[zh_CN], text_key[没有足够的槽位].
+GetText Failed, cur_lang[zh_CN], text_key[该玩家已接受召唤].
+GetText Failed, cur_lang[zh_CN], text_key[该玩家已在房间中].
+GetText Failed, cur_lang[zh_CN], text_key[无法准备].
+GetText Failed, cur_lang[zh_CN], text_key[你已经准备了].
+GetText Failed, cur_lang[zh_CN], text_key[人数不平衡，无法准备].
+GetText Failed, cur_lang[zh_CN], text_key[错误的房间信息，无法开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[战力不平衡，无法开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[房间内只有观察者时无法开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[无法进入游戏].
+GetText Failed, cur_lang[zh_CN], text_key[人数不平衡，游戏无法开始].
+GetText Failed, cur_lang[zh_CN], text_key[不能中途加入游戏].
+GetText Failed, cur_lang[zh_CN], text_key[该场游戏已经结束].
+GetText Failed, cur_lang[zh_CN], text_key[你的角色包含非法游戏信息].
+GetText Failed, cur_lang[zh_CN], text_key[歼灭战两边人数不足].
+GetText Failed, cur_lang[zh_CN], text_key[BOSS战人数不足,至少10人才能开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[人数不足,至少2人才能开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[人数不足,至少两边各需要1人才能开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[人数不足,至少4人才能开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[活动模式人数不足,10人才能开始游戏].
+GetText Failed, cur_lang[zh_CN], text_key[您所在的服务器不能开启此模式].
+GetText Failed, cur_lang[zh_CN], text_key[武器已过期或耐久度为0].
+GetText Failed, cur_lang[zh_CN], text_key[该玩家已不在房间内].
+GetText Failed, cur_lang[zh_CN], text_key[该地图为GM地图，不能开启].
+GetText Failed, cur_lang[zh_CN], text_key[创 建].
+GetText Failed, cur_lang[zh_CN], text_key[无法连接服务器].
+GetText Failed, cur_lang[zh_CN], text_key[登录失败].
+GetText Failed, cur_lang[zh_CN], text_key[与服务器已断开连接].
+GetText Failed, cur_lang[zh_CN], text_key[服务器已关闭].
+GetText Failed, cur_lang[zh_CN], text_key[版本不一致].
+GetText Failed, cur_lang[zh_CN], text_key[三线性（推荐）].
+GetText Failed, cur_lang[zh_CN], text_key[游戏设置].
+GetText Failed, cur_lang[zh_CN], text_key[基本选项].
+GetText Failed, cur_lang[zh_CN], text_key[游戏].
+GetText Failed, cur_lang[zh_CN], text_key[选择语言].
+GetText Failed, cur_lang[zh_CN], text_key[拒绝邀请].
+GetText Failed, cur_lang[zh_CN], text_key[视频].
+GetText Failed, cur_lang[zh_CN], text_key[分辨率].
+GetText Failed, cur_lang[zh_CN], text_key[全	屏].
+GetText Failed, cur_lang[zh_CN], text_key[画面表现].
+GetText Failed, cur_lang[zh_CN], text_key[屏幕比例].
+GetText Failed, cur_lang[zh_CN], text_key[刷新率(全屏)].
+GetText Failed, cur_lang[zh_CN], text_key[贴图过滤].
+GetText Failed, cur_lang[zh_CN], text_key[抗锯齿].
+GetText Failed, cur_lang[zh_CN], text_key[阴影品质].
+GetText Failed, cur_lang[zh_CN], text_key[模型品质].
+GetText Failed, cur_lang[zh_CN], text_key[材质品质].
+GetText Failed, cur_lang[zh_CN], text_key[垂直同步].
+GetText Failed, cur_lang[zh_CN], text_key[软粒子].
+GetText Failed, cur_lang[zh_CN], text_key[鼠标].
+GetText Failed, cur_lang[zh_CN], text_key[灵敏度].
+GetText Failed, cur_lang[zh_CN], text_key[开镜后灵敏度].
+GetText Failed, cur_lang[zh_CN], text_key[其他选项].
+GetText Failed, cur_lang[zh_CN], text_key[鼠标反转].
+GetText Failed, cur_lang[zh_CN], text_key[左手持枪].
+GetText Failed, cur_lang[zh_CN], text_key[鼠标常规操作说明].
+GetText Failed, cur_lang[zh_CN], text_key[切换武器].
+GetText Failed, cur_lang[zh_CN], text_key[开镜瞄准].
+GetText Failed, cur_lang[zh_CN], text_key[射击].
+GetText Failed, cur_lang[zh_CN], text_key[恢复默认].
+GetText Failed, cur_lang[zh_CN], text_key[取 消].
+GetText Failed, cur_lang[zh_CN], text_key[确 定].
+GetText Failed, cur_lang[zh_CN], text_key[音频].
+GetText Failed, cur_lang[zh_CN], text_key[游戏音量].
+GetText Failed, cur_lang[zh_CN], text_key[静音].
+GetText Failed, cur_lang[zh_CN], text_key[音乐音量].
+GetText Failed, cur_lang[zh_CN], text_key[音效音量].
+GetText Failed, cur_lang[zh_CN], text_key[快捷键].
+GetText Failed, cur_lang[zh_CN], text_key[快捷键设置].
+GetText Failed, cur_lang[zh_CN], text_key[前 进].
+GetText Failed, cur_lang[zh_CN], text_key[跳 跃].
+GetText Failed, cur_lang[zh_CN], text_key[后 退].
+GetText Failed, cur_lang[zh_CN], text_key[装 弹].
+GetText Failed, cur_lang[zh_CN], text_key[左 移].
+GetText Failed, cur_lang[zh_CN], text_key[切换角色].
+GetText Failed, cur_lang[zh_CN], text_key[右 移].
+GetText Failed, cur_lang[zh_CN], text_key[下 蹲].
+GetText Failed, cur_lang[zh_CN], text_key[打开地图].
+GetText Failed, cur_lang[zh_CN], text_key[其他按键说明(不可设置)].
+GetText Failed, cur_lang[zh_CN], text_key[游戏中基本快捷键].
+GetText Failed, cur_lang[zh_CN], text_key[切换为主武器].
+GetText Failed, cur_lang[zh_CN], text_key[切换为副武器].
+GetText Failed, cur_lang[zh_CN], text_key[切换为近身武器].
+GetText Failed, cur_lang[zh_CN], text_key[切换为特殊武器].
+GetText Failed, cur_lang[zh_CN], text_key[切换炸药包（爆破模式）].
+GetText Failed, cur_lang[zh_CN], text_key[呼出玩家列表].
+GetText Failed, cur_lang[zh_CN], text_key[显示/关闭队友血条].
+GetText Failed, cur_lang[zh_CN], text_key[游戏内喷灌].
+GetText Failed, cur_lang[zh_CN], text_key[游戏内截图].
+GetText Failed, cur_lang[zh_CN], text_key[游戏内呼叫医疗兵].
+GetText Failed, cur_lang[zh_CN], text_key[埋雷（爆破模式）].
+GetText Failed, cur_lang[zh_CN], text_key[选人快捷键].
+GetText Failed, cur_lang[zh_CN], text_key[基本功能快捷键].
+GetText Failed, cur_lang[zh_CN], text_key[呼出菜单].
+GetText Failed, cur_lang[zh_CN], text_key[赞成踢人].
+GetText Failed, cur_lang[zh_CN], text_key[反对踢人].
+GetText Failed, cur_lang[zh_CN], text_key[提高鼠标灵敏度一级].
+GetText Failed, cur_lang[zh_CN], text_key[降低鼠标灵敏度一级].
+GetText Failed, cur_lang[zh_CN], text_key[游戏内输入聊天].
+GetText Failed, cur_lang[zh_CN], text_key[无线电菜单（z）].
+GetText Failed, cur_lang[zh_CN], text_key[无线电菜单（x）].
+GetText Failed, cur_lang[zh_CN], text_key[无线电菜单（c）].
+GetText Failed, cur_lang[zh_CN], text_key[战队基地内建造].
+GetText Failed, cur_lang[zh_CN], text_key[2x（推荐）].
+GetText Failed, cur_lang[zh_CN], text_key[各向异性].
+resource load error : /lang/en_ph.lua
+GetText Failed, cur_lang[zh_CN], text_key[自定义].
+GetText Failed, cur_lang[zh_CN], text_key[画质优先].
+GetText Failed, cur_lang[zh_CN], text_key[低].
+GetText Failed, cur_lang[zh_CN], text_key[剩余次数:].
+GetText Failed, cur_lang[zh_CN], text_key[请选择角色和理由].
+GetText Failed, cur_lang[zh_CN], text_key[恶意使用bug].
+GetText Failed, cur_lang[zh_CN], text_key[长时间挂机].
+GetText Failed, cur_lang[zh_CN], text_key[无理的谩骂].
+GetText Failed, cur_lang[zh_CN], text_key[外挂或非法软件].
+GetText Failed, cur_lang[zh_CN], text_key[确定].
+GetText Failed, cur_lang[zh_CN], text_key[我自己].
+GetText Failed, cur_lang[zh_CN], text_key[同意].
+GetText Failed, cur_lang[zh_CN], text_key[拒绝].
+GetText Failed, cur_lang[zh_CN], text_key[普通].
+GetText Failed, cur_lang[zh_CN], text_key[宽屏].
+GetText Failed, cur_lang[zh_CN], text_key[W].
+GetText Failed, cur_lang[zh_CN], text_key[S].
+GetText Failed, cur_lang[zh_CN], text_key[A].
+GetText Failed, cur_lang[zh_CN], text_key[D].
+GetText Failed, cur_lang[zh_CN], text_key[空格].
+GetText Failed, cur_lang[zh_CN], text_key[R].
+GetText Failed, cur_lang[zh_CN], text_key[B].
+GetText Failed, cur_lang[zh_CN], text_key[左Ctrl].
+GetText Failed, cur_lang[zh_CN], text_key[Q].
+GetText Failed, cur_lang[zh_CN], text_key[M].
+GetText Failed, cur_lang[zh_CN], text_key[正在进入大厅...].
+GetText Failed, cur_lang[zh_CN], text_key[发  送].
+GetText Failed, cur_lang[zh_CN], text_key[新建窗口].
+GetText Failed, cur_lang[zh_CN], text_key[重命名该窗口].
+GetText Failed, cur_lang[zh_CN], text_key[删除该窗口].
+GetText Failed, cur_lang[zh_CN], text_key[显示内容].
+GetText Failed, cur_lang[zh_CN], text_key[战队].
+GetText Failed, cur_lang[zh_CN], text_key[当前].
+GetText Failed, cur_lang[zh_CN], text_key[密语].
+GetText Failed, cur_lang[zh_CN], text_key[频道玩家列表].
+GetText Failed, cur_lang[zh_CN], text_key[在线好友列表].
+GetText Failed, cur_lang[zh_CN], text_key[约TA玩].
+GetText Failed, cur_lang[zh_CN], text_key[加入TA].
+GetText Failed, cur_lang[zh_CN], text_key[没有进入频道].
+GetText Failed, cur_lang[zh_CN], text_key[血量最高的重型火力压制职业].
+GetText Failed, cur_lang[zh_CN], text_key[在炽焰中移动的近距离突击职业].
+GetText Failed, cur_lang[zh_CN], text_key[火箭兵 ].
+GetText Failed, cur_lang[zh_CN], text_key[重机枪手 ].
+GetText Failed, cur_lang[zh_CN], text_key[狙击手 ].
+GetText Failed, cur_lang[zh_CN], text_key[突击手 ].
+GetText Failed, cur_lang[zh_CN], text_key[火焰兵 ].
+GetText Failed, cur_lang[zh_CN], text_key[罗护士 ].
+GetText Failed, cur_lang[zh_CN], text_key[工程兵 ].
+GetText Failed, cur_lang[zh_CN], text_key[间  谍 ].
+GetText Failed, cur_lang[zh_CN], text_key[冰球手 ].
+GetText Failed, cur_lang[zh_CN], text_key[机枪兵 ].
+GetText Failed, cur_lang[zh_CN], text_key[GM送您礼物了！！！].
+GetText Failed, cur_lang[zh_CN], text_key[下一个].
+GetText Failed, cur_lang[zh_CN], text_key[每日任务].
+GetText Failed, cur_lang[zh_CN], text_key[获得].
+GetText Failed, cur_lang[zh_CN], text_key[销毁].
+GetText Failed, cur_lang[zh_CN], text_key[欢迎来到大冲锋。接下来将进入新手关开启新手引导。完成新手关你可以获得奖品。而新手引导可以帮助你更快更好的了解大冲锋的操作。].
+GetText Failed, cur_lang[zh_CN], text_key[战队战斗力].
+GetText Failed, cur_lang[zh_CN], text_key[队长].
+GetText Failed, cur_lang[zh_CN], text_key[战队排名].
+GetText Failed, cur_lang[zh_CN], text_key[资源战排名].
+GetText Failed, cur_lang[zh_CN], text_key[空间升级].
+GetText Failed, cur_lang[zh_CN], text_key[快速获取].
+GetText Failed, cur_lang[zh_CN], text_key[战队原石每小时转换：1000黑铁(自动转换)].
+GetText Failed, cur_lang[zh_CN], text_key[战队原石].
+GetText Failed, cur_lang[zh_CN], text_key[战队黑铁].
+GetText Failed, cur_lang[zh_CN], text_key[个人原石每小时转换：1000黑晶石(自动转换)].
+GetText Failed, cur_lang[zh_CN], text_key[个人原石].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[个人].
+GetText Failed, cur_lang[zh_CN], text_key[资源争夺战].
+GetText Failed, cur_lang[zh_CN], text_key[战队战].
+GetText Failed, cur_lang[zh_CN], text_key[战队列表].
+GetText Failed, cur_lang[zh_CN], text_key[点击可查询所有VIP特权].
+GetText Failed, cur_lang[zh_CN], text_key[当前等级VIP6].
+GetText Failed, cur_lang[zh_CN], text_key[高级VIP状态：].
+GetText Failed, cur_lang[zh_CN], text_key[剩余30天].
+GetText Failed, cur_lang[zh_CN], text_key[下一级需要经验：8000].
+GetText Failed, cur_lang[zh_CN], text_key[加载中...].
+GetText Failed, cur_lang[zh_CN], text_key[C币].
+GetText Failed, cur_lang[zh_CN], text_key[FC点].
+GetText Failed, cur_lang[zh_CN], text_key[离领取奖励还有].
+GetText Failed, cur_lang[zh_CN], text_key[排行榜].
+GetText Failed, cur_lang[zh_CN], text_key[邮件].
+GetText Failed, cur_lang[zh_CN], text_key[好友].
+GetText Failed, cur_lang[zh_CN], text_key[彩盒].
+GetText Failed, cur_lang[zh_CN], text_key[任务].
+GetText Failed, cur_lang[zh_CN], text_key[合成].
+GetText Failed, cur_lang[zh_CN], text_key[防沉迷提示].
+GetText Failed, cur_lang[zh_CN], text_key[改头换面].
+GetText Failed, cur_lang[zh_CN], text_key[修改完毕后需要重启客户端生效！].
+GetText Failed, cur_lang[zh_CN], text_key[大喇叭].
+GetText Failed, cur_lang[zh_CN], text_key[你还能输入].
+GetText Failed, cur_lang[zh_CN], text_key[个字].
+GetText Failed, cur_lang[zh_CN], text_key[发 送].
+GetText Failed, cur_lang[zh_CN], text_key[战队改名].
+GetText Failed, cur_lang[zh_CN], text_key[最多可输入].
+GetText Failed, cur_lang[zh_CN], text_key[主武器].
+GetText Failed, cur_lang[zh_CN], text_key[副武器].
+GetText Failed, cur_lang[zh_CN], text_key[近身武器].
+GetText Failed, cur_lang[zh_CN], text_key[特殊武器].
+GetText Failed, cur_lang[zh_CN], text_key[服装].
+GetText Failed, cur_lang[zh_CN], text_key[帽子].
+GetText Failed, cur_lang[zh_CN], text_key[饰品].
+GetText Failed, cur_lang[zh_CN], text_key[战斗力].
+GetText Failed, cur_lang[zh_CN], text_key[+基本：].
+GetText Failed, cur_lang[zh_CN], text_key[+强化：].
+GetText Failed, cur_lang[zh_CN], text_key[+属性部件：].
+GetText Failed, cur_lang[zh_CN], text_key[请选择你将获得奖励].
+GetText Failed, cur_lang[zh_CN], text_key[关闭多选一礼盒].
+GetText Failed, cur_lang[zh_CN], text_key[每日任务，每周任务和活动！].
+GetText Failed, cur_lang[zh_CN], text_key[合成系统！].
+GetText Failed, cur_lang[zh_CN], text_key[在线时长系统！].
+GetText Failed, cur_lang[zh_CN], text_key[彩盒！].
+GetText Failed, cur_lang[zh_CN], text_key[每日签到系统！].
+GetText Failed, cur_lang[zh_CN], text_key[免费兑换专区！].
+GetText Failed, cur_lang[zh_CN], text_key[靶场系统].
+GetText Failed, cur_lang[zh_CN], text_key[抵用券].
+GetText Failed, cur_lang[zh_CN], text_key[永久].
+GetText Failed, cur_lang[zh_CN], text_key[个].
+GetText Failed, cur_lang[zh_CN], text_key[天].
+GetText Failed, cur_lang[zh_CN], text_key[火焰抗性].
+GetText Failed, cur_lang[zh_CN], text_key[爆炸抗性].
+GetText Failed, cur_lang[zh_CN], text_key[子弹抗性].
+GetText Failed, cur_lang[zh_CN], text_key[近身抗性].
+GetText Failed, cur_lang[zh_CN], text_key[增加血量].
+GetText Failed, cur_lang[zh_CN], text_key[当前装备].
+GetText Failed, cur_lang[zh_CN], text_key[物品名称].
+GetText Failed, cur_lang[zh_CN], text_key[攻击威力].
+GetText Failed, cur_lang[zh_CN], text_key[攻击速度].
+GetText Failed, cur_lang[zh_CN], text_key[XX套装:].
+GetText Failed, cur_lang[zh_CN], text_key[4件套
+XXX:10%    XXX:10%
+6件套
+XXX:10%    XXX:10%].
+GetText Failed, cur_lang[zh_CN], text_key[物品用途].
+GetText Failed, cur_lang[zh_CN], text_key[剩余时间].
+GetText Failed, cur_lang[zh_CN], text_key[开启机会].
+GetText Failed, cur_lang[zh_CN], text_key[此次开启需].
+GetText Failed, cur_lang[zh_CN], text_key[个VIP保险柜].
+GetText Failed, cur_lang[zh_CN], text_key[剩余].
+GetText Failed, cur_lang[zh_CN], text_key[开 始].
+GetText Failed, cur_lang[zh_CN], text_key[恭喜你获得以下物品].
+GetText Failed, cur_lang[zh_CN], text_key[开启需要消耗].
+GetText Failed, cur_lang[zh_CN], text_key[张密码卡].
+GetText Failed, cur_lang[zh_CN], text_key[仓库中现有：].
+GetText Failed, cur_lang[zh_CN], text_key[查看奖励].
+GetText Failed, cur_lang[zh_CN], text_key[开  启].
+GetText Failed, cur_lang[zh_CN], text_key[奖励记录].
+GetText Failed, cur_lang[zh_CN], text_key[快速购买].
+GetText Failed, cur_lang[zh_CN], text_key[密码卡].
+GetText Failed, cur_lang[zh_CN], text_key[您总共要支付].
+GetText Failed, cur_lang[zh_CN], text_key[只能输入数字0～9].
+GetText Failed, cur_lang[zh_CN], text_key[购 买].
+GetText Failed, cur_lang[zh_CN], text_key[上一页].
+GetText Failed, cur_lang[zh_CN], text_key[下一页].
+GetText Failed, cur_lang[zh_CN], text_key[恭喜你获得真●巴祖卡火箭炮].
+GetText Failed, cur_lang[zh_CN], text_key[续费].
+GetText Failed, cur_lang[zh_CN], text_key[充 值].
+GetText Failed, cur_lang[zh_CN], text_key[结算方式].
+GetText Failed, cur_lang[zh_CN], text_key[50/3天].
+GetText Failed, cur_lang[zh_CN], text_key[100/7天].
+GetText Failed, cur_lang[zh_CN], text_key[500/30天].
+GetText Failed, cur_lang[zh_CN], text_key[1000/永久].
+GetText Failed, cur_lang[zh_CN], text_key[余额].
+GetText Failed, cur_lang[zh_CN], text_key[花费].
+GetText Failed, cur_lang[zh_CN], text_key[取消].
+GetText Failed, cur_lang[zh_CN], text_key[使用].
+GetText Failed, cur_lang[zh_CN], text_key[卸下].
+GetText Failed, cur_lang[zh_CN], text_key[参战装备].
+GetText Failed, cur_lang[zh_CN], text_key[一键维修].
+GetText Failed, cur_lang[zh_CN], text_key[整理仓库].
+GetText Failed, cur_lang[zh_CN], text_key[角色管理].
+GetText Failed, cur_lang[zh_CN], text_key[道具管理].
+GetText Failed, cur_lang[zh_CN], text_key[关闭仓库并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[极低].
+GetText Failed, cur_lang[zh_CN], text_key[较低].
+GetText Failed, cur_lang[zh_CN], text_key[中等].
+GetText Failed, cur_lang[zh_CN], text_key[较高].
+GetText Failed, cur_lang[zh_CN], text_key[极高].
+GetText Failed, cur_lang[zh_CN], text_key[您仍可以大胆转换。].
+GetText Failed, cur_lang[zh_CN], text_key[您仍可以尝试转换。].
+GetText Failed, cur_lang[zh_CN], text_key[您需要考虑一下。].
+GetText Failed, cur_lang[zh_CN], text_key[您再考虑下吧？].
+GetText Failed, cur_lang[zh_CN], text_key[相当危险喔~].
+GetText Failed, cur_lang[zh_CN], text_key[强化加成].
+GetText Failed, cur_lang[zh_CN], text_key[购买].
+GetText Failed, cur_lang[zh_CN], text_key[开始强化].
+GetText Failed, cur_lang[zh_CN], text_key[品质越高的装备获得更多的升星经验，相同的装备能获得5倍经验
+等级不能增加升星经验].
+GetText Failed, cur_lang[zh_CN], text_key[每日一次增加经验].
+GetText Failed, cur_lang[zh_CN], text_key[开始升星].
+GetText Failed, cur_lang[zh_CN], text_key[星级
+不转换].
+GetText Failed, cur_lang[zh_CN], text_key[转换后数据参考].
+GetText Failed, cur_lang[zh_CN], text_key[开始转换].
+GetText Failed, cur_lang[zh_CN], text_key[熔炼等级].
+GetText Failed, cur_lang[zh_CN], text_key[熔能：].
+GetText Failed, cur_lang[zh_CN], text_key[查看蓝图].
+GetText Failed, cur_lang[zh_CN], text_key[开始熔炼].
+GetText Failed, cur_lang[zh_CN], text_key[强 化].
+GetText Failed, cur_lang[zh_CN], text_key[升 星].
+GetText Failed, cur_lang[zh_CN], text_key[改 装].
+GetText Failed, cur_lang[zh_CN], text_key[转 换].
+GetText Failed, cur_lang[zh_CN], text_key[熔 炼].
+GetText Failed, cur_lang[zh_CN], text_key[整理素材].
+GetText Failed, cur_lang[zh_CN], text_key[合成帮助].
+GetText Failed, cur_lang[zh_CN], text_key[在右侧装备栏内点击需要强化的装备].
+GetText Failed, cur_lang[zh_CN], text_key[请将强化部件拖至这里，
+或点击“购买”直接购买].
+GetText Failed, cur_lang[zh_CN], text_key[请将改装部件拖至这里
+或者直接点击“购买”键购买].
+GetText Failed, cur_lang[zh_CN], text_key[在右侧装备栏内点击需要
+转换强化等级的两件装备].
+GetText Failed, cur_lang[zh_CN], text_key[熔能不足了
+你可以保持在线以恢复熔能].
+GetText Failed, cur_lang[zh_CN], text_key[在右侧仓库中点击需要熔炼的物品].
+GetText Failed, cur_lang[zh_CN], text_key[放置加工装置可以提升熔炼品质哦~
+或者放置特殊模组可以合成特殊物品！].
+GetText Failed, cur_lang[zh_CN], text_key[在右侧装备栏内点击需要升星的装备].
+GetText Failed, cur_lang[zh_CN], text_key[在右侧装备栏内点击材料装备，
+升星后该材料将消失].
+GetText Failed, cur_lang[zh_CN], text_key[勾选后可以花费少量C币为
+本次升星增加大量经验
+（每个品质的装备每日一次机会）].
+GetText Failed, cur_lang[zh_CN], text_key[关闭合成界面并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[战斗力提升到].
+GetText Failed, cur_lang[zh_CN], text_key[战斗力降低到].
+GetText Failed, cur_lang[zh_CN], text_key[获得以下失败产物].
+GetText Failed, cur_lang[zh_CN], text_key[请选择熔炼产出物].
+GetText Failed, cur_lang[zh_CN], text_key[只能选择其中一个，请慎重考虑哦~].
+GetText Failed, cur_lang[zh_CN], text_key[此次熔炼似乎产生好东西，您是否考虑先查看一下].
+GetText Failed, cur_lang[zh_CN], text_key[恭喜您获得].
+GetText Failed, cur_lang[zh_CN], text_key[请去仓库查看].
+GetText Failed, cur_lang[zh_CN], text_key[熔炼值].
+GetText Failed, cur_lang[zh_CN], text_key[熔炼产物列表].
+GetText Failed, cur_lang[zh_CN], text_key[蓝图列表].
+GetText Failed, cur_lang[zh_CN], text_key[北京市].
+GetText Failed, cur_lang[zh_CN], text_key[天津市].
+GetText Failed, cur_lang[zh_CN], text_key[重庆市].
+GetText Failed, cur_lang[zh_CN], text_key[上海市].
+GetText Failed, cur_lang[zh_CN], text_key[河北省].
+GetText Failed, cur_lang[zh_CN], text_key[山西省].
+GetText Failed, cur_lang[zh_CN], text_key[内蒙古自治区].
+GetText Failed, cur_lang[zh_CN], text_key[辽宁省].
+GetText Failed, cur_lang[zh_CN], text_key[吉林省].
+GetText Failed, cur_lang[zh_CN], text_key[黑龙江省].
+GetText Failed, cur_lang[zh_CN], text_key[江苏省].
+GetText Failed, cur_lang[zh_CN], text_key[广西壮族自治区].
+GetText Failed, cur_lang[zh_CN], text_key[浙江省].
+GetText Failed, cur_lang[zh_CN], text_key[安徽省].
+GetText Failed, cur_lang[zh_CN], text_key[福建省].
+GetText Failed, cur_lang[zh_CN], text_key[江西省].
+GetText Failed, cur_lang[zh_CN], text_key[山东省].
+GetText Failed, cur_lang[zh_CN], text_key[河南省].
+GetText Failed, cur_lang[zh_CN], text_key[湖北省].
+GetText Failed, cur_lang[zh_CN], text_key[湖南省].
+GetText Failed, cur_lang[zh_CN], text_key[广东省].
+GetText Failed, cur_lang[zh_CN], text_key[海南省].
+GetText Failed, cur_lang[zh_CN], text_key[四川省].
+GetText Failed, cur_lang[zh_CN], text_key[贵州省].
+GetText Failed, cur_lang[zh_CN], text_key[云南省].
+GetText Failed, cur_lang[zh_CN], text_key[陕西省].
+GetText Failed, cur_lang[zh_CN], text_key[西藏自治区].
+GetText Failed, cur_lang[zh_CN], text_key[甘肃省].
+GetText Failed, cur_lang[zh_CN], text_key[青海省].
+GetText Failed, cur_lang[zh_CN], text_key[宁夏回族自治区].
+GetText Failed, cur_lang[zh_CN], text_key[新疆维吾尔自治区].
+GetText Failed, cur_lang[zh_CN], text_key[石家庄市].
+GetText Failed, cur_lang[zh_CN], text_key[邯郸市].
+GetText Failed, cur_lang[zh_CN], text_key[邢台市].
+GetText Failed, cur_lang[zh_CN], text_key[保定市].
+GetText Failed, cur_lang[zh_CN], text_key[张家口市].
+GetText Failed, cur_lang[zh_CN], text_key[承德市].
+GetText Failed, cur_lang[zh_CN], text_key[唐山市].
+GetText Failed, cur_lang[zh_CN], text_key[秦皇岛市].
+GetText Failed, cur_lang[zh_CN], text_key[沧州市].
+GetText Failed, cur_lang[zh_CN], text_key[廊坊市].
+GetText Failed, cur_lang[zh_CN], text_key[衡水市].
+GetText Failed, cur_lang[zh_CN], text_key[太原市].
+GetText Failed, cur_lang[zh_CN], text_key[大同市].
+GetText Failed, cur_lang[zh_CN], text_key[阳泉市].
+GetText Failed, cur_lang[zh_CN], text_key[长治市].
+GetText Failed, cur_lang[zh_CN], text_key[朔州市].
+GetText Failed, cur_lang[zh_CN], text_key[榆次市].
+GetText Failed, cur_lang[zh_CN], text_key[孝义市].
+GetText Failed, cur_lang[zh_CN], text_key[临汾市].
+GetText Failed, cur_lang[zh_CN], text_key[运城市].
+GetText Failed, cur_lang[zh_CN], text_key[呼和浩特].
+GetText Failed, cur_lang[zh_CN], text_key[包头市].
+GetText Failed, cur_lang[zh_CN], text_key[巴林左旗].
+GetText Failed, cur_lang[zh_CN], text_key[二连浩特市].
+GetText Failed, cur_lang[zh_CN], text_key[满洲里市].
+GetText Failed, cur_lang[zh_CN], text_key[通辽市].
+GetText Failed, cur_lang[zh_CN], text_key[准格尔旗].
+GetText Failed, cur_lang[zh_CN], text_key[乌兰浩特市].
+GetText Failed, cur_lang[zh_CN], text_key[沈阳市].
+GetText Failed, cur_lang[zh_CN], text_key[大连市].
+GetText Failed, cur_lang[zh_CN], text_key[鞍山市].
+GetText Failed, cur_lang[zh_CN], text_key[抚顺市].
+GetText Failed, cur_lang[zh_CN], text_key[本溪市].
+GetText Failed, cur_lang[zh_CN], text_key[丹东市].
+GetText Failed, cur_lang[zh_CN], text_key[锦州市].
+GetText Failed, cur_lang[zh_CN], text_key[营口市].
+GetText Failed, cur_lang[zh_CN], text_key[阜新市].
+GetText Failed, cur_lang[zh_CN], text_key[辽阳市].
+GetText Failed, cur_lang[zh_CN], text_key[长春市].
+GetText Failed, cur_lang[zh_CN], text_key[吉林市].
+GetText Failed, cur_lang[zh_CN], text_key[四平市].
+GetText Failed, cur_lang[zh_CN], text_key[辽源市].
+GetText Failed, cur_lang[zh_CN], text_key[通化市].
+GetText Failed, cur_lang[zh_CN], text_key[临江市].
+GetText Failed, cur_lang[zh_CN], text_key[大安市].
+GetText Failed, cur_lang[zh_CN], text_key[敦化市].
+GetText Failed, cur_lang[zh_CN], text_key[珲春市].
+GetText Failed, cur_lang[zh_CN], text_key[哈尔滨市].
+GetText Failed, cur_lang[zh_CN], text_key[齐齐哈尔市].
+GetText Failed, cur_lang[zh_CN], text_key[大庆市].
+GetText Failed, cur_lang[zh_CN], text_key[伊春市].
+GetText Failed, cur_lang[zh_CN], text_key[牡丹江市].
+GetText Failed, cur_lang[zh_CN], text_key[佳木斯市].
+GetText Failed, cur_lang[zh_CN], text_key[缓化市].
+GetText Failed, cur_lang[zh_CN], text_key[漠河县].
+GetText Failed, cur_lang[zh_CN], text_key[黑河市].
+GetText Failed, cur_lang[zh_CN], text_key[南京市].
+GetText Failed, cur_lang[zh_CN], text_key[徐州市].
+GetText Failed, cur_lang[zh_CN], text_key[连云港市].
+GetText Failed, cur_lang[zh_CN], text_key[淮安市].
+GetText Failed, cur_lang[zh_CN], text_key[宿迁市].
+GetText Failed, cur_lang[zh_CN], text_key[盐城市].
+GetText Failed, cur_lang[zh_CN], text_key[扬州市].
+GetText Failed, cur_lang[zh_CN], text_key[南通市].
+GetText Failed, cur_lang[zh_CN], text_key[镇江市].
+GetText Failed, cur_lang[zh_CN], text_key[常州市].
+GetText Failed, cur_lang[zh_CN], text_key[无锡市].
+GetText Failed, cur_lang[zh_CN], text_key[苏州市].
+GetText Failed, cur_lang[zh_CN], text_key[常熟市].
+GetText Failed, cur_lang[zh_CN], text_key[南宁市].
+GetText Failed, cur_lang[zh_CN], text_key[柳州市].
+GetText Failed, cur_lang[zh_CN], text_key[桂林市].
+GetText Failed, cur_lang[zh_CN], text_key[梧州市].
+GetText Failed, cur_lang[zh_CN], text_key[北海市].
+GetText Failed, cur_lang[zh_CN], text_key[钦州市].
+GetText Failed, cur_lang[zh_CN], text_key[杭州市].
+GetText Failed, cur_lang[zh_CN], text_key[宁波市].
+GetText Failed, cur_lang[zh_CN], text_key[嘉兴市].
+GetText Failed, cur_lang[zh_CN], text_key[湖州市].
+GetText Failed, cur_lang[zh_CN], text_key[绍兴市].
+GetText Failed, cur_lang[zh_CN], text_key[金华市].
+GetText Failed, cur_lang[zh_CN], text_key[衢州市].
+GetText Failed, cur_lang[zh_CN], text_key[舟山市].
+GetText Failed, cur_lang[zh_CN], text_key[温州市].
+GetText Failed, cur_lang[zh_CN], text_key[台州市].
+GetText Failed, cur_lang[zh_CN], text_key[合肥市].
+GetText Failed, cur_lang[zh_CN], text_key[淮南市].
+GetText Failed, cur_lang[zh_CN], text_key[蚌埠市].
+GetText Failed, cur_lang[zh_CN], text_key[马鞍山市].
+GetText Failed, cur_lang[zh_CN], text_key[安庆市].
+GetText Failed, cur_lang[zh_CN], text_key[黄山市].
+GetText Failed, cur_lang[zh_CN], text_key[滁州市].
+GetText Failed, cur_lang[zh_CN], text_key[宿州市].
+GetText Failed, cur_lang[zh_CN], text_key[巢湖市].
+GetText Failed, cur_lang[zh_CN], text_key[宣州市].
+GetText Failed, cur_lang[zh_CN], text_key[福州市].
+GetText Failed, cur_lang[zh_CN], text_key[厦门市].
+GetText Failed, cur_lang[zh_CN], text_key[三明市].
+GetText Failed, cur_lang[zh_CN], text_key[莆田市].
+GetText Failed, cur_lang[zh_CN], text_key[泉州市].
+GetText Failed, cur_lang[zh_CN], text_key[漳州市].
+GetText Failed, cur_lang[zh_CN], text_key[南平市].
+GetText Failed, cur_lang[zh_CN], text_key[宁德市].
+GetText Failed, cur_lang[zh_CN], text_key[龙岩市].
+GetText Failed, cur_lang[zh_CN], text_key[南昌市].
+GetText Failed, cur_lang[zh_CN], text_key[新余市].
+GetText Failed, cur_lang[zh_CN], text_key[九江市].
+GetText Failed, cur_lang[zh_CN], text_key[鹰潭市].
+GetText Failed, cur_lang[zh_CN], text_key[上饶市].
+GetText Failed, cur_lang[zh_CN], text_key[宜春市].
+GetText Failed, cur_lang[zh_CN], text_key[临川市].
+GetText Failed, cur_lang[zh_CN], text_key[吉安市].
+GetText Failed, cur_lang[zh_CN], text_key[赣州市].
+GetText Failed, cur_lang[zh_CN], text_key[景德镇市].
+GetText Failed, cur_lang[zh_CN], text_key[济南市].
+GetText Failed, cur_lang[zh_CN], text_key[青岛市].
+GetText Failed, cur_lang[zh_CN], text_key[淄博市].
+GetText Failed, cur_lang[zh_CN], text_key[潍坊市].
+GetText Failed, cur_lang[zh_CN], text_key[烟台市].
+GetText Failed, cur_lang[zh_CN], text_key[威海市].
+GetText Failed, cur_lang[zh_CN], text_key[兖州市].
+GetText Failed, cur_lang[zh_CN], text_key[日照市].
+GetText Failed, cur_lang[zh_CN], text_key[德州市].
+GetText Failed, cur_lang[zh_CN], text_key[郓城县].
+GetText Failed, cur_lang[zh_CN], text_key[郑州市].
+GetText Failed, cur_lang[zh_CN], text_key[开封市].
+GetText Failed, cur_lang[zh_CN], text_key[洛阳市].
+GetText Failed, cur_lang[zh_CN], text_key[新乡市].
+GetText Failed, cur_lang[zh_CN], text_key[濮阳市].
+GetText Failed, cur_lang[zh_CN], text_key[商丘市].
+GetText Failed, cur_lang[zh_CN], text_key[南阳市].
+GetText Failed, cur_lang[zh_CN], text_key[周口市].
+GetText Failed, cur_lang[zh_CN], text_key[汝南县].
+GetText Failed, cur_lang[zh_CN], text_key[武汉市].
+GetText Failed, cur_lang[zh_CN], text_key[黄石市].
+GetText Failed, cur_lang[zh_CN], text_key[襄樊市].
+GetText Failed, cur_lang[zh_CN], text_key[十堰市].
+GetText Failed, cur_lang[zh_CN], text_key[宜昌市].
+GetText Failed, cur_lang[zh_CN], text_key[荆门市].
+GetText Failed, cur_lang[zh_CN], text_key[孝感市].
+GetText Failed, cur_lang[zh_CN], text_key[黄冈市].
+GetText Failed, cur_lang[zh_CN], text_key[恩施市].
+GetText Failed, cur_lang[zh_CN], text_key[荆沙].
+GetText Failed, cur_lang[zh_CN], text_key[长沙市].
+GetText Failed, cur_lang[zh_CN], text_key[株州市].
+GetText Failed, cur_lang[zh_CN], text_key[湘潭市].
+GetText Failed, cur_lang[zh_CN], text_key[衡阳市].
+GetText Failed, cur_lang[zh_CN], text_key[岳阳市].
+GetText Failed, cur_lang[zh_CN], text_key[常德市].
+GetText Failed, cur_lang[zh_CN], text_key[郴州市].
+GetText Failed, cur_lang[zh_CN], text_key[益阳市].
+GetText Failed, cur_lang[zh_CN], text_key[冷水滩].
+GetText Failed, cur_lang[zh_CN], text_key[怀化市].
+GetText Failed, cur_lang[zh_CN], text_key[张家界].
+GetText Failed, cur_lang[zh_CN], text_key[广州市].
+GetText Failed, cur_lang[zh_CN], text_key[深圳市].
+GetText Failed, cur_lang[zh_CN], text_key[珠海市].
+GetText Failed, cur_lang[zh_CN], text_key[汕头市].
+GetText Failed, cur_lang[zh_CN], text_key[韶关市].
+GetText Failed, cur_lang[zh_CN], text_key[惠州市].
+GetText Failed, cur_lang[zh_CN], text_key[东莞市].
+GetText Failed, cur_lang[zh_CN], text_key[中山市].
+GetText Failed, cur_lang[zh_CN], text_key[佛山市].
+GetText Failed, cur_lang[zh_CN], text_key[湛江市].
+GetText Failed, cur_lang[zh_CN], text_key[海口市].
+GetText Failed, cur_lang[zh_CN], text_key[三亚市].
+GetText Failed, cur_lang[zh_CN], text_key[儋州市].
+GetText Failed, cur_lang[zh_CN], text_key[成都市].
+GetText Failed, cur_lang[zh_CN], text_key[攀枝花市].
+GetText Failed, cur_lang[zh_CN], text_key[德阳市].
+GetText Failed, cur_lang[zh_CN], text_key[绵阳市].
+GetText Failed, cur_lang[zh_CN], text_key[自贡市].
+GetText Failed, cur_lang[zh_CN], text_key[内江市].
+GetText Failed, cur_lang[zh_CN], text_key[乐山市].
+GetText Failed, cur_lang[zh_CN], text_key[泸州市].
+GetText Failed, cur_lang[zh_CN], text_key[宜宾市].
+GetText Failed, cur_lang[zh_CN], text_key[贵阳市].
+GetText Failed, cur_lang[zh_CN], text_key[遵义市].
+GetText Failed, cur_lang[zh_CN], text_key[安顺市].
+GetText Failed, cur_lang[zh_CN], text_key[六盘水市].
+GetText Failed, cur_lang[zh_CN], text_key[昆明市].
+GetText Failed, cur_lang[zh_CN], text_key[昭通市].
+GetText Failed, cur_lang[zh_CN], text_key[曲靖市].
+GetText Failed, cur_lang[zh_CN], text_key[江川市].
+GetText Failed, cur_lang[zh_CN], text_key[思茅市].
+GetText Failed, cur_lang[zh_CN], text_key[丽江县].
+GetText Failed, cur_lang[zh_CN], text_key[开远市].
+GetText Failed, cur_lang[zh_CN], text_key[楚雄市].
+GetText Failed, cur_lang[zh_CN], text_key[西安市].
+GetText Failed, cur_lang[zh_CN], text_key[铜川市].
+GetText Failed, cur_lang[zh_CN], text_key[宝鸡市].
+GetText Failed, cur_lang[zh_CN], text_key[渭南市].
+GetText Failed, cur_lang[zh_CN], text_key[商州市].
+GetText Failed, cur_lang[zh_CN], text_key[拉萨市].
+GetText Failed, cur_lang[zh_CN], text_key[日喀则市].
+GetText Failed, cur_lang[zh_CN], text_key[仁布县].
+GetText Failed, cur_lang[zh_CN], text_key[丁青县].
+GetText Failed, cur_lang[zh_CN], text_key[阿里地区].
+GetText Failed, cur_lang[zh_CN], text_key[兰州市].
+GetText Failed, cur_lang[zh_CN], text_key[金昌市].
+GetText Failed, cur_lang[zh_CN], text_key[天水市].
+GetText Failed, cur_lang[zh_CN], text_key[平凉市].
+GetText Failed, cur_lang[zh_CN], text_key[玉门市].
+GetText Failed, cur_lang[zh_CN], text_key[敦煌市].
+GetText Failed, cur_lang[zh_CN], text_key[西宁市].
+GetText Failed, cur_lang[zh_CN], text_key[平安县].
+GetText Failed, cur_lang[zh_CN], text_key[格尔木市].
+GetText Failed, cur_lang[zh_CN], text_key[玛沁县].
+GetText Failed, cur_lang[zh_CN], text_key[银川市].
+GetText Failed, cur_lang[zh_CN], text_key[石嘴山市].
+GetText Failed, cur_lang[zh_CN], text_key[青铜峡市].
+GetText Failed, cur_lang[zh_CN], text_key[海原县].
+GetText Failed, cur_lang[zh_CN], text_key[乌鲁木齐市].
+GetText Failed, cur_lang[zh_CN], text_key[克拉玛依市].
+GetText Failed, cur_lang[zh_CN], text_key[吐鲁番市].
+GetText Failed, cur_lang[zh_CN], text_key[喀什市].
+GetText Failed, cur_lang[zh_CN], text_key[阿图什市].
+GetText Failed, cur_lang[zh_CN], text_key[库尔勒市].
+GetText Failed, cur_lang[zh_CN], text_key[100   返：600黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[500   返：3000黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[2500  返：15000黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[10000 返：60000黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[50000 返：300000黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[战队黑铁:25].
+GetText Failed, cur_lang[zh_CN], text_key[战队黑铁:125].
+GetText Failed, cur_lang[zh_CN], text_key[战队黑铁:625].
+GetText Failed, cur_lang[zh_CN], text_key[战队黑铁:2500].
+GetText Failed, cur_lang[zh_CN], text_key[战队黑铁:12500].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石:1200].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石:6000].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石:30000].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石:150000].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石:750000].
+GetText Failed, cur_lang[zh_CN], text_key[恢复血量：].
+GetText Failed, cur_lang[zh_CN], text_key[补充弹药：].
+GetText Failed, cur_lang[zh_CN], text_key[提升攻击力：].
+GetText Failed, cur_lang[zh_CN], text_key[提升攻击速度：].
+GetText Failed, cur_lang[zh_CN], text_key[提升血量上限：].
+GetText Failed, cur_lang[zh_CN], text_key[提升抗性：].
+GetText Failed, cur_lang[zh_CN], text_key[提升移动速度：].
+GetText Failed, cur_lang[zh_CN], text_key[血量].
+GetText Failed, cur_lang[zh_CN], text_key[威力].
+GetText Failed, cur_lang[zh_CN], text_key[射速].
+GetText Failed, cur_lang[zh_CN], text_key[转向].
+GetText Failed, cur_lang[zh_CN], text_key[射程].
+GetText Failed, cur_lang[zh_CN], text_key[弹药].
+GetText Failed, cur_lang[zh_CN], text_key[耐久].
+GetText Failed, cur_lang[zh_CN], text_key[移动速度].
+GetText Failed, cur_lang[zh_CN], text_key[全选当前页].
+GetText Failed, cur_lang[zh_CN], text_key[清空列表].
+GetText Failed, cur_lang[zh_CN], text_key[批准加入].
+GetText Failed, cur_lang[zh_CN], text_key[达到20级的玩家
+可以创建战队].
+GetText Failed, cur_lang[zh_CN], text_key[创建战队需要消耗10000C币能量].
+GetText Failed, cur_lang[zh_CN], text_key[创建战队].
+GetText Failed, cur_lang[zh_CN], text_key[在战队列表中搜索战队加入].
+GetText Failed, cur_lang[zh_CN], text_key[战队名称:].
+GetText Failed, cur_lang[zh_CN], text_key[战队等级:].
+GetText Failed, cur_lang[zh_CN], text_key[战队胜率:].
+GetText Failed, cur_lang[zh_CN], text_key[战队战胜负场次:].
+GetText Failed, cur_lang[zh_CN], text_key[战斗力:].
+GetText Failed, cur_lang[zh_CN], text_key[战绩排名:].
+GetText Failed, cur_lang[zh_CN], text_key[人数:].
+GetText Failed, cur_lang[zh_CN], text_key[队长:].
+GetText Failed, cur_lang[zh_CN], text_key[创建日期:].
+GetText Failed, cur_lang[zh_CN], text_key[地区:].
+GetText Failed, cur_lang[zh_CN], text_key[加入条件:].
+GetText Failed, cur_lang[zh_CN], text_key[战队介绍].
+GetText Failed, cur_lang[zh_CN], text_key[最近战绩].
+GetText Failed, cur_lang[zh_CN], text_key[战队公告].
+GetText Failed, cur_lang[zh_CN], text_key[战队介绍:].
+GetText Failed, cur_lang[zh_CN], text_key[战队公告:].
+GetText Failed, cur_lang[zh_CN], text_key[发送].
+GetText Failed, cur_lang[zh_CN], text_key[更改队内等级为：].
+GetText Failed, cur_lang[zh_CN], text_key[勋章库存：].
+GetText Failed, cur_lang[zh_CN], text_key[为战队充能].
+GetText Failed, cur_lang[zh_CN], text_key[我的贡献值：].
+GetText Failed, cur_lang[zh_CN], text_key[战队补给：].
+GetText Failed, cur_lang[zh_CN], text_key[需要贡献:].
+GetText Failed, cur_lang[zh_CN], text_key[战队等级达到20级，并由队长解锁补给].
+GetText Failed, cur_lang[zh_CN], text_key[领取战队报酬].
+GetText Failed, cur_lang[zh_CN], text_key[上一级].
+GetText Failed, cur_lang[zh_CN], text_key[下一级].
+GetText Failed, cur_lang[zh_CN], text_key[■ 使用能量块为战队充能
+
+■ 进行游戏（包括战队战）也能为战队充能].
+GetText Failed, cur_lang[zh_CN], text_key[基本信息].
+GetText Failed, cur_lang[zh_CN], text_key[战队成员].
+GetText Failed, cur_lang[zh_CN], text_key[战队贡献].
+GetText Failed, cur_lang[zh_CN], text_key[我的战队].
+GetText Failed, cur_lang[zh_CN], text_key[关闭战队并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[省份：].
+GetText Failed, cur_lang[zh_CN], text_key[全部].
+GetText Failed, cur_lang[zh_CN], text_key[城市：].
+GetText Failed, cur_lang[zh_CN], text_key[跳转至第].
+GetText Failed, cur_lang[zh_CN], text_key[战绩].
+GetText Failed, cur_lang[zh_CN], text_key[等级].
+GetText Failed, cur_lang[zh_CN], text_key[热门].
+GetText Failed, cur_lang[zh_CN], text_key[最新].
+GetText Failed, cur_lang[zh_CN], text_key[输入你要搜索战队的名称].
+GetText Failed, cur_lang[zh_CN], text_key[搜索失败].
+GetText Failed, cur_lang[zh_CN], text_key[开始时间：1990/1/1
+结束时间：1990/1/1].
+GetText Failed, cur_lang[zh_CN], text_key[小队队长抢夺可获得【个人黑晶石】，队友抢夺可获得【个人原石】。].
+GetText Failed, cur_lang[zh_CN], text_key[争夺模式].
+GetText Failed, cur_lang[zh_CN], text_key[开放时间：每日9:00-24:00].
+GetText Failed, cur_lang[zh_CN], text_key[挑战].
+GetText Failed, cur_lang[zh_CN], text_key[上周NO：].
+GetText Failed, cur_lang[zh_CN], text_key[排名].
+GetText Failed, cur_lang[zh_CN], text_key[战队名称].
+GetText Failed, cur_lang[zh_CN], text_key[空间等级].
+GetText Failed, cur_lang[zh_CN], text_key[抢夺次数].
+GetText Failed, cur_lang[zh_CN], text_key[抢夺资源].
+GetText Failed, cur_lang[zh_CN], text_key[加入防守].
+GetText Failed, cur_lang[zh_CN], text_key[本周战绩].
+GetText Failed, cur_lang[zh_CN], text_key[8000].
+GetText Failed, cur_lang[zh_CN], text_key[我的FC].
+GetText Failed, cur_lang[zh_CN], text_key[编辑战队空间].
+GetText Failed, cur_lang[zh_CN], text_key[查看部署].
+GetText Failed, cur_lang[zh_CN], text_key[机械守卫].
+GetText Failed, cur_lang[zh_CN], text_key[防御墙].
+GetText Failed, cur_lang[zh_CN], text_key[原石挖掘机].
+GetText Failed, cur_lang[zh_CN], text_key[仓库].
+GetText Failed, cur_lang[zh_CN], text_key[科技树].
+GetText Failed, cur_lang[zh_CN], text_key[载具].
+GetText Failed, cur_lang[zh_CN], text_key[补给品].
+GetText Failed, cur_lang[zh_CN], text_key[全属性升级到LV10以后
+开放下一层科技].
+GetText Failed, cur_lang[zh_CN], text_key[首页].
+GetText Failed, cur_lang[zh_CN], text_key[战队空间建设].
+GetText Failed, cur_lang[zh_CN], text_key[个人装备建设].
+GetText Failed, cur_lang[zh_CN], text_key[战队信息].
+GetText Failed, cur_lang[zh_CN], text_key[联系队长].
+GetText Failed, cur_lang[zh_CN], text_key[申请加入].
+GetText Failed, cur_lang[zh_CN], text_key[战队头像：].
+GetText Failed, cur_lang[zh_CN], text_key[完成].
+GetText Failed, cur_lang[zh_CN], text_key[战队图标：].
+GetText Failed, cur_lang[zh_CN], text_key[修改].
+GetText Failed, cur_lang[zh_CN], text_key[战队名称：].
+GetText Failed, cur_lang[zh_CN], text_key[你还能输入  个字].
+GetText Failed, cur_lang[zh_CN], text_key[省：].
+GetText Failed, cur_lang[zh_CN], text_key[市：].
+GetText Failed, cur_lang[zh_CN], text_key[加入条件：].
+GetText Failed, cur_lang[zh_CN], text_key[战队介绍：].
+GetText Failed, cur_lang[zh_CN], text_key[你还能输入    个字].
+GetText Failed, cur_lang[zh_CN], text_key[创建].
+GetText Failed, cur_lang[zh_CN], text_key[战队头像].
+GetText Failed, cur_lang[zh_CN], text_key[最多输入75个汉字或150个字符].
+GetText Failed, cur_lang[zh_CN], text_key[加入条件].
+GetText Failed, cur_lang[zh_CN], text_key[房主名称：].
+GetText Failed, cur_lang[zh_CN], text_key[游戏模式：].
+GetText Failed, cur_lang[zh_CN], text_key[中途加入：].
+GetText Failed, cur_lang[zh_CN], text_key[复活时间：].
+GetText Failed, cur_lang[zh_CN], text_key[胜利条件：].
+GetText Failed, cur_lang[zh_CN], text_key[特殊战：].
+GetText Failed, cur_lang[zh_CN], text_key[战力平衡：].
+GetText Failed, cur_lang[zh_CN], text_key[自动开始：].
+GetText Failed, cur_lang[zh_CN], text_key[匹配对手].
+GetText Failed, cur_lang[zh_CN], text_key[战队聊天].
+GetText Failed, cur_lang[zh_CN], text_key[退出房间].
+GetText Failed, cur_lang[zh_CN], text_key[战队队友].
+GetText Failed, cur_lang[zh_CN], text_key[获得个人黑晶石].
+GetText Failed, cur_lang[zh_CN], text_key[1/1].
+GetText Failed, cur_lang[zh_CN], text_key[个人剩余].
+GetText Failed, cur_lang[zh_CN], text_key[0FC点].
+GetText Failed, cur_lang[zh_CN], text_key[转换].
+GetText Failed, cur_lang[zh_CN], text_key[消耗].
+GetText Failed, cur_lang[zh_CN], text_key[获得战队黑铁].
+GetText Failed, cur_lang[zh_CN], text_key[返还].
+GetText Failed, cur_lang[zh_CN], text_key[您还可以选择某个战队，向他们发起挑战！].
+GetText Failed, cur_lang[zh_CN], text_key[详细信息].
+GetText Failed, cur_lang[zh_CN], text_key[第1页].
+GetText Failed, cur_lang[zh_CN], text_key[挑 战].
+GetText Failed, cur_lang[zh_CN], text_key[交战指挥所].
+GetText Failed, cur_lang[zh_CN], text_key[大冲锋].
+GetText Failed, cur_lang[zh_CN], text_key[刷新].
+GetText Failed, cur_lang[zh_CN], text_key[自动匹配......].
+GetText Failed, cur_lang[zh_CN], text_key[离开].
+GetText Failed, cur_lang[zh_CN], text_key[快速使用:].
+GetText Failed, cur_lang[zh_CN], text_key[使用能量块为你的战队提升等级].
+GetText Failed, cur_lang[zh_CN], text_key[(每天限用一次)].
+GetText Failed, cur_lang[zh_CN], text_key[战队能量块].
+GetText Failed, cur_lang[zh_CN], text_key[小幅度增加战队经验].
+GetText Failed, cur_lang[zh_CN], text_key[剩余：].
+GetText Failed, cur_lang[zh_CN], text_key[每周限领1次].
+GetText Failed, cur_lang[zh_CN], text_key[您的战队贡献将会清零，战队BUFF
+也会消失。].
+GetText Failed, cur_lang[zh_CN], text_key[战队匹配战].
+GetText Failed, cur_lang[zh_CN], text_key[移除].
+GetText Failed, cur_lang[zh_CN], text_key[全选].
+GetText Failed, cur_lang[zh_CN], text_key[组队进入].
+GetText Failed, cur_lang[zh_CN], text_key[领地遭受“啊啊啊啊啊啊啊啊啊啊”攻击].
+GetText Failed, cur_lang[zh_CN], text_key[1人].
+GetText Failed, cur_lang[zh_CN], text_key[防守].
+GetText Failed, cur_lang[zh_CN], text_key[挑战模式].
+GetText Failed, cur_lang[zh_CN], text_key[可掠夺资源：].
+GetText Failed, cur_lang[zh_CN], text_key[原石：5000点].
+GetText Failed, cur_lang[zh_CN], text_key[战队领地等级：].
+GetText Failed, cur_lang[zh_CN], text_key[战队资源战排名：].
+GetText Failed, cur_lang[zh_CN], text_key[个人消耗：3000].
+GetText Failed, cur_lang[zh_CN], text_key[返回].
+GetText Failed, cur_lang[zh_CN], text_key[匹配].
+GetText Failed, cur_lang[zh_CN], text_key[开始战斗].
+GetText Failed, cur_lang[zh_CN], text_key[匹配中......].
+GetText Failed, cur_lang[zh_CN], text_key[个人兑换].
+GetText Failed, cur_lang[zh_CN], text_key[您当前].
+GetText Failed, cur_lang[zh_CN], text_key[提示：“快速获取”和“给战队空间设施升级”可立即获得].
+GetText Failed, cur_lang[zh_CN], text_key[点击“兑换”进入开启宝箱界面].
+GetText Failed, cur_lang[zh_CN], text_key[个人黑晶石总量].
+GetText Failed, cur_lang[zh_CN], text_key[：123456789].
+GetText Failed, cur_lang[zh_CN], text_key[本次开启].
+GetText Failed, cur_lang[zh_CN], text_key[下次开启].
+GetText Failed, cur_lang[zh_CN], text_key[开启].
+GetText Failed, cur_lang[zh_CN], text_key[全属性升级到LV30以后
+开放下一层科技].
+GetText Failed, cur_lang[zh_CN], text_key[属性升级到LV10以后开放下一层科技].
+GetText Failed, cur_lang[zh_CN], text_key[全部维修].
+GetText Failed, cur_lang[zh_CN], text_key[全部补给].
+GetText Failed, cur_lang[zh_CN], text_key[80].
+GetText Failed, cur_lang[zh_CN], text_key[补给].
+GetText Failed, cur_lang[zh_CN], text_key[维修].
+GetText Failed, cur_lang[zh_CN], text_key[升级].
+GetText Failed, cur_lang[zh_CN], text_key[建造].
+GetText Failed, cur_lang[zh_CN], text_key[增加攻击速度：].
+GetText Failed, cur_lang[zh_CN], text_key[持续时间：].
+GetText Failed, cur_lang[zh_CN], text_key[搜索玩家...].
+GetText Failed, cur_lang[zh_CN], text_key[好 友].
+GetText Failed, cur_lang[zh_CN], text_key[黑名单].
+GetText Failed, cur_lang[zh_CN], text_key[伙 伴].
+GetText Failed, cur_lang[zh_CN], text_key[发起群聊].
+GetText Failed, cur_lang[zh_CN], text_key[没有搜索到相应的玩家！].
+GetText Failed, cur_lang[zh_CN], text_key[你还可以添加23个参与者].
+GetText Failed, cur_lang[zh_CN], text_key[创建群组].
+GetText Failed, cur_lang[zh_CN], text_key[输入群组名称].
+GetText Failed, cur_lang[zh_CN], text_key[输入名称].
+GetText Failed, cur_lang[zh_CN], text_key[加你为好友，是否同意？].
+GetText Failed, cur_lang[zh_CN], text_key[同 意].
+GetText Failed, cur_lang[zh_CN], text_key[邀请你加入他的群组，是否同意？].
+GetText Failed, cur_lang[zh_CN], text_key[是否确定退出当前群组！].
+GetText Failed, cur_lang[zh_CN], text_key[是否将此人踢出聊天群！].
+GetText Failed, cur_lang[zh_CN], text_key[是否确定删除当前好友！].
+GetText Failed, cur_lang[zh_CN], text_key[邀 请].
+GetText Failed, cur_lang[zh_CN], text_key[频道内玩家].
+GetText Failed, cur_lang[zh_CN], text_key[收取附件].
+GetText Failed, cur_lang[zh_CN], text_key[收件箱].
+GetText Failed, cur_lang[zh_CN], text_key[发件箱].
+GetText Failed, cur_lang[zh_CN], text_key[关闭邮件并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[收件人].
+GetText Failed, cur_lang[zh_CN], text_key[玩家列表].
+GetText Failed, cur_lang[zh_CN], text_key[主  题].
+GetText Failed, cur_lang[zh_CN], text_key[附  件].
+GetText Failed, cur_lang[zh_CN], text_key[添加附件].
+GetText Failed, cur_lang[zh_CN], text_key[绑定状态的物品无法添加附件].
+GetText Failed, cur_lang[zh_CN], text_key[接受].
+GetText Failed, cur_lang[zh_CN], text_key[伙伴].
+GetText Failed, cur_lang[zh_CN], text_key[频道].
+GetText Failed, cur_lang[zh_CN], text_key[VIP(全部)].
+GetText Failed, cur_lang[zh_CN], text_key[网吧(全部)].
+GetText Failed, cur_lang[zh_CN], text_key[加成类].
+GetText Failed, cur_lang[zh_CN], text_key[名片].
+GetText Failed, cur_lang[zh_CN], text_key[喷罐].
+GetText Failed, cur_lang[zh_CN], text_key[功能类].
+GetText Failed, cur_lang[zh_CN], text_key[消耗类].
+GetText Failed, cur_lang[zh_CN], text_key[结算清单].
+GetText Failed, cur_lang[zh_CN], text_key[购买完直接装备].
+GetText Failed, cur_lang[zh_CN], text_key[赠送给].
+GetText Failed, cur_lang[zh_CN], text_key[购买结算].
+GetText Failed, cur_lang[zh_CN], text_key[送给好友].
+GetText Failed, cur_lang[zh_CN], text_key[购物车].
+GetText Failed, cur_lang[zh_CN], text_key[清空].
+GetText Failed, cur_lang[zh_CN], text_key[全部购买].
+GetText Failed, cur_lang[zh_CN], text_key[角色商城].
+GetText Failed, cur_lang[zh_CN], text_key[道具商城].
+GetText Failed, cur_lang[zh_CN], text_key[免费兑换].
+GetText Failed, cur_lang[zh_CN], text_key[限时抢购].
+GetText Failed, cur_lang[zh_CN], text_key[关闭商城并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[赏金击杀数].
+GetText Failed, cur_lang[zh_CN], text_key[复仇次数].
+GetText Failed, cur_lang[zh_CN], text_key[近身杀人数].
+GetText Failed, cur_lang[zh_CN], text_key[综合].
+GetText Failed, cur_lang[zh_CN], text_key[火箭兵].
+GetText Failed, cur_lang[zh_CN], text_key[重机枪手].
+GetText Failed, cur_lang[zh_CN], text_key[狙击手].
+GetText Failed, cur_lang[zh_CN], text_key[突击手].
+GetText Failed, cur_lang[zh_CN], text_key[火焰兵].
+GetText Failed, cur_lang[zh_CN], text_key[医疗兵].
+GetText Failed, cur_lang[zh_CN], text_key[工程兵].
+GetText Failed, cur_lang[zh_CN], text_key[所属战队].
+GetText Failed, cur_lang[zh_CN], text_key[我的排名].
+GetText Failed, cur_lang[zh_CN], text_key[综合战斗力].
+GetText Failed, cur_lang[zh_CN], text_key[排名截止].
+GetText Failed, cur_lang[zh_CN], text_key[0天0小时0分钟].
+GetText Failed, cur_lang[zh_CN], text_key[未进入].
+GetText Failed, cur_lang[zh_CN], text_key[关闭排行榜并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[个人排名].
+GetText Failed, cur_lang[zh_CN], text_key[每周排名].
+GetText Failed, cur_lang[zh_CN], text_key[趣味排名].
+GetText Failed, cur_lang[zh_CN], text_key[抗性加成].
+GetText Failed, cur_lang[zh_CN], text_key[技能属性].
+GetText Failed, cur_lang[zh_CN], text_key[定级赛:
+玩家首次参加群雄争霸赛,前10场为定
+级比赛,根据胜场数决定初始段位.
+
+计分:
+游戏中的普通击杀,连杀,助攻都可得分,
+胜场得高分,回合失败和中途退出将会扣除
+较高分数.
+每天10场比赛后获得积分开始衰减。
+
+沉默掉分:
+专家及以上级别的玩家一段时间不上线比赛
+将开始扣除分数.].
+GetText Failed, cur_lang[zh_CN], text_key[等待中].
+GetText Failed, cur_lang[zh_CN], text_key[游戏中].
+GetText Failed, cur_lang[zh_CN], text_key[分钟].
+GetText Failed, cur_lang[zh_CN], text_key[回合].
+GetText Failed, cur_lang[zh_CN], text_key[播放].
+GetText Failed, cur_lang[zh_CN], text_key[房间名称].
+GetText Failed, cur_lang[zh_CN], text_key[密码].
+GetText Failed, cur_lang[zh_CN], text_key[游戏模式].
+GetText Failed, cur_lang[zh_CN], text_key[地图].
+GetText Failed, cur_lang[zh_CN], text_key[特殊职业战].
+GetText Failed, cur_lang[zh_CN], text_key[胜利条件].
+GetText Failed, cur_lang[zh_CN], text_key[游戏人数].
+GetText Failed, cur_lang[zh_CN], text_key[复活等待时间].
+GetText Failed, cur_lang[zh_CN], text_key[中途加入].
+GetText Failed, cur_lang[zh_CN], text_key[战力平衡].
+GetText Failed, cur_lang[zh_CN], text_key[自动开始].
+GetText Failed, cur_lang[zh_CN], text_key[/C 当前].
+GetText Failed, cur_lang[zh_CN], text_key[/X 小喇叭].
+GetText Failed, cur_lang[zh_CN], text_key[/D 大喇叭].
+GetText Failed, cur_lang[zh_CN], text_key[当前位置:].
+GetText Failed, cur_lang[zh_CN], text_key[聊 天].
+GetText Failed, cur_lang[zh_CN], text_key[人数].
+GetText Failed, cur_lang[zh_CN], text_key[状态].
+GetText Failed, cur_lang[zh_CN], text_key[保存].
+GetText Failed, cur_lang[zh_CN], text_key[比赛排位:].
+GetText Failed, cur_lang[zh_CN], text_key[评级K值:].
+GetText Failed, cur_lang[zh_CN], text_key[杀人数:].
+GetText Failed, cur_lang[zh_CN], text_key[死亡数:].
+GetText Failed, cur_lang[zh_CN], text_key[胜利场次:].
+GetText Failed, cur_lang[zh_CN], text_key[失败场次:].
+GetText Failed, cur_lang[zh_CN], text_key[助攻数:].
+GetText Failed, cur_lang[zh_CN], text_key[胜率:].
+GetText Failed, cur_lang[zh_CN], text_key[赛季杀敌数:].
+GetText Failed, cur_lang[zh_CN], text_key[队伍列表].
+GetText Failed, cur_lang[zh_CN], text_key[关闭战绩表并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[   等级       最低分       最高分        赛季奖励   ].
+GetText Failed, cur_lang[zh_CN], text_key[  新秀1星      1　          420        新秀杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  新秀2星      421          923        新秀杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  新秀3星      924          1500       新秀杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  职业1星      1501         2760       职业杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  职业2星      2761         4267       职业杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  职业3星      4268         6000       职业杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  专家1星      6001         8520       专家杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  专家2星      8521         11535      专家杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  专家3星      11536        15000      专家杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  英雄1星      15001        19200      英雄杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  英雄2星      19201        24225      英雄杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[  英雄3星      24226        无限       英雄杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[   王者             前10名             王者杀敌宝箱   ].
+GetText Failed, cur_lang[zh_CN], text_key[比赛规则].
+GetText Failed, cur_lang[zh_CN], text_key[关闭比赛规则并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[正在匹配中......].
+GetText Failed, cur_lang[zh_CN], text_key[等待时间   秒].
+GetText Failed, cur_lang[zh_CN], text_key[全民大冲锋!].
+GetText Failed, cur_lang[zh_CN], text_key[来!战个痛快!].
+GetText Failed, cur_lang[zh_CN], text_key[FC!大革命!].
+GetText Failed, cur_lang[zh_CN], text_key[GoGo!大冲锋!].
+GetText Failed, cur_lang[zh_CN], text_key[FC勇往直前!].
+GetText Failed, cur_lang[zh_CN], text_key[取  消].
+GetText Failed, cur_lang[zh_CN], text_key[开始匹配].
+GetText Failed, cur_lang[zh_CN], text_key[ ].
+GetText Failed, cur_lang[zh_CN], text_key[热血战队——锦标赛].
+GetText Failed, cur_lang[zh_CN], text_key[退  出].
+GetText Failed, cur_lang[zh_CN], text_key[报  名].
+GetText Failed, cur_lang[zh_CN], text_key[出战管理].
+GetText Failed, cur_lang[zh_CN], text_key[当前战况].
+GetText Failed, cur_lang[zh_CN], text_key[————].
+GetText Failed, cur_lang[zh_CN], text_key[成员积分].
+GetText Failed, cur_lang[zh_CN], text_key[规则详情].
+GetText Failed, cur_lang[zh_CN], text_key[报名].
+GetText Failed, cur_lang[zh_CN], text_key[  1.除决赛外，战队必须在报名后才能参加比赛
+  2.只有战队队长及管理员拥有报名资格
+  3.未在报名时间内及时报名的战队不能参加当日比赛].
+GetText Failed, cur_lang[zh_CN], text_key[比赛规定].
+GetText Failed, cur_lang[zh_CN], text_key[  1.每场比赛共分为高级战场1个、中级战场1个、低级战场3个、特殊战场1个
+  2.除特殊战场外，各战场最多可以有6名成员参战，战队队长有权更改参战名单
+  3.每个成员只能参加1个普通战场的战斗
+  4.除特殊战场外，参战成员必须在开战时进入战场，开战1分钟内未进入战场视为放弃比赛
+  5.参战成员必须在规定的时间内各自点击开始战斗进入战场
+  6.战队成员可在开战时间内随时进入特殊战场，每个成员每场比赛都可以参加1次特殊战场
+  7.中途退出比赛视为放弃比赛].
+GetText Failed, cur_lang[zh_CN], text_key[战场积分].
+GetText Failed, cur_lang[zh_CN], text_key[  1.对战双方需要同时进行全部战场的对战并根据表现获得积分
+  2.参加特殊战场并完成即可获得积分，其他战场视最终的战斗结果确定获得的积分
+  3.高、中、低级战场必须有人参加直到战斗结束才可获得积分，无人参加或全体放弃比赛不
+    获得积分
+  4.具体积分规则详见积分规则界面
+  5.每个战场获得的积分累计即为战队最后获得的积分
+  6.根据战队累计获得积分确定比赛胜负并对战队进行排名].
+GetText Failed, cur_lang[zh_CN], text_key[高级战场（歼灭）].
+GetText Failed, cur_lang[zh_CN], text_key[胜负比].
+GetText Failed, cur_lang[zh_CN], text_key[积分].
+GetText Failed, cur_lang[zh_CN], text_key[3:0].
+GetText Failed, cur_lang[zh_CN], text_key[120].
+GetText Failed, cur_lang[zh_CN], text_key[3:1].
+GetText Failed, cur_lang[zh_CN], text_key[96].
+GetText Failed, cur_lang[zh_CN], text_key[3:2].
+GetText Failed, cur_lang[zh_CN], text_key[72].
+GetText Failed, cur_lang[zh_CN], text_key[2:3].
+GetText Failed, cur_lang[zh_CN], text_key[48].
+GetText Failed, cur_lang[zh_CN], text_key[1:3].
+GetText Failed, cur_lang[zh_CN], text_key[24].
+GetText Failed, cur_lang[zh_CN], text_key[0:3].
+GetText Failed, cur_lang[zh_CN], text_key[6].
+GetText Failed, cur_lang[zh_CN], text_key[中级战场（推车）].
+GetText Failed, cur_lang[zh_CN], text_key[推车比分].
+GetText Failed, cur_lang[zh_CN], text_key[2:0].
+GetText Failed, cur_lang[zh_CN], text_key[70].
+GetText Failed, cur_lang[zh_CN], text_key[2:1].
+GetText Failed, cur_lang[zh_CN], text_key[40].
+GetText Failed, cur_lang[zh_CN], text_key[1:2].
+GetText Failed, cur_lang[zh_CN], text_key[15].
+GetText Failed, cur_lang[zh_CN], text_key[0:2].
+GetText Failed, cur_lang[zh_CN], text_key[5].
+GetText Failed, cur_lang[zh_CN], text_key[低级战场（团队竞技，占点，刀战）].
+GetText Failed, cur_lang[zh_CN], text_key[胜利积分].
+GetText Failed, cur_lang[zh_CN], text_key[失败积分].
+GetText Failed, cur_lang[zh_CN], text_key[10].
+GetText Failed, cur_lang[zh_CN], text_key[特殊战场（跳跳乐）].
+GetText Failed, cur_lang[zh_CN], text_key[每1人完成可获得3积分].
+GetText Failed, cur_lang[zh_CN], text_key[胜利奖励].
+GetText Failed, cur_lang[zh_CN], text_key[10000C币，比赛胜利礼包].
+GetText Failed, cur_lang[zh_CN], text_key[积分奖励].
+GetText Failed, cur_lang[zh_CN], text_key[获得积分].
+GetText Failed, cur_lang[zh_CN], text_key[奖励内容].
+GetText Failed, cur_lang[zh_CN], text_key[10000].
+GetText Failed, cur_lang[zh_CN], text_key[10000C币-等级分礼包].
+GetText Failed, cur_lang[zh_CN], text_key[赛季奖励].
+GetText Failed, cur_lang[zh_CN], text_key[赛季排名].
+GetText Failed, cur_lang[zh_CN], text_key[冠军].
+GetText Failed, cur_lang[zh_CN], text_key[10000C币，冠军礼包].
+GetText Failed, cur_lang[zh_CN], text_key[亚军].
+GetText Failed, cur_lang[zh_CN], text_key[10000C币，亚军礼包].
+GetText Failed, cur_lang[zh_CN], text_key[季军].
+GetText Failed, cur_lang[zh_CN], text_key[10000C币，季军礼包].
+GetText Failed, cur_lang[zh_CN], text_key[积分规则].
+GetText Failed, cur_lang[zh_CN], text_key[本赛季排名].
+GetText Failed, cur_lang[zh_CN], text_key[上赛季排名].
+GetText Failed, cur_lang[zh_CN], text_key[关闭成员积分并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[关闭当前战况并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[高级战场(歼灭)].
+GetText Failed, cur_lang[zh_CN], text_key[更换].
+GetText Failed, cur_lang[zh_CN], text_key[参 加].
+GetText Failed, cur_lang[zh_CN], text_key[退 出].
+GetText Failed, cur_lang[zh_CN], text_key[中级战场(推车)].
+GetText Failed, cur_lang[zh_CN], text_key[低级战场(团竞)].
+GetText Failed, cur_lang[zh_CN], text_key[低级战场(占点)].
+GetText Failed, cur_lang[zh_CN], text_key[低级战场(刀战)].
+GetText Failed, cur_lang[zh_CN], text_key[特殊战场(跳跳乐)].
+GetText Failed, cur_lang[zh_CN], text_key[所有未参加其他战场的
+成员都可参加特殊战场].
+GetText Failed, cur_lang[zh_CN], text_key[开战后直接点击进入参加战场].
+GetText Failed, cur_lang[zh_CN], text_key[进 入].
+GetText Failed, cur_lang[zh_CN], text_key[关闭出战管理并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[更换队员].
+GetText Failed, cur_lang[zh_CN], text_key[战队联赛].
+GetText Failed, cur_lang[zh_CN], text_key[青铜彩盒].
+GetText Failed, cur_lang[zh_CN], text_key[白银彩盒].
+GetText Failed, cur_lang[zh_CN], text_key[黄金彩盒].
+GetText Failed, cur_lang[zh_CN], text_key[关闭彩盒并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[免费馈赠].
+GetText Failed, cur_lang[zh_CN], text_key[馈赠物品将自动放入仓库].
+GetText Failed, cur_lang[zh_CN], text_key[关闭窗口].
+GetText Failed, cur_lang[zh_CN], text_key[连抽5次].
+GetText Failed, cur_lang[zh_CN], text_key[连抽10次].
+GetText Failed, cur_lang[zh_CN], text_key[开始].
+GetText Failed, cur_lang[zh_CN], text_key[神秘拼图可在黄金彩盒中获得].
+GetText Failed, cur_lang[zh_CN], text_key[神秘拼图].
+GetText Failed, cur_lang[zh_CN], text_key[这张拼图有1次自由选择的机会].
+GetText Failed, cur_lang[zh_CN], text_key[奖励].
+GetText Failed, cur_lang[zh_CN], text_key[领取奖励].
+GetText Failed, cur_lang[zh_CN], text_key[你获得了].
+GetText Failed, cur_lang[zh_CN], text_key[1/2].
+GetText Failed, cur_lang[zh_CN], text_key[武器].
+GetText Failed, cur_lang[zh_CN], text_key[配饰].
+GetText Failed, cur_lang[zh_CN], text_key[完成神秘拼图可选择获得以下奖品之一].
+GetText Failed, cur_lang[zh_CN], text_key[完成神秘拼图可
+选择获得以下奖品之一].
+GetText Failed, cur_lang[zh_CN], text_key[领取].
+GetText Failed, cur_lang[zh_CN], text_key[关闭].
+GetText Failed, cur_lang[zh_CN], text_key[角色成就进程].
+GetText Failed, cur_lang[zh_CN], text_key[保存截图].
+GetText Failed, cur_lang[zh_CN], text_key[页].
+GetText Failed, cur_lang[zh_CN], text_key[关闭个人信息并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[任务成就达成进程].
+GetText Failed, cur_lang[zh_CN], text_key[个人信息].
+GetText Failed, cur_lang[zh_CN], text_key[一般成就进程].
+GetText Failed, cur_lang[zh_CN], text_key[我的头像].
+GetText Failed, cur_lang[zh_CN], text_key[我的成就].
+GetText Failed, cur_lang[zh_CN], text_key[一般成就].
+GetText Failed, cur_lang[zh_CN], text_key[任务成就].
+GetText Failed, cur_lang[zh_CN], text_key[角色成就].
+GetText Failed, cur_lang[zh_CN], text_key[我的称号].
+GetText Failed, cur_lang[zh_CN], text_key[称号].
+GetText Failed, cur_lang[zh_CN], text_key[成就陈列架].
+GetText Failed, cur_lang[zh_CN], text_key[使用次数].
+GetText Failed, cur_lang[zh_CN], text_key[最高得分].
+GetText Failed, cur_lang[zh_CN], text_key[表现排名].
+GetText Failed, cur_lang[zh_CN], text_key[精彩时刻].
+GetText Failed, cur_lang[zh_CN], text_key[称号：].
+GetText Failed, cur_lang[zh_CN], text_key[总战斗力:].
+GetText Failed, cur_lang[zh_CN], text_key[成就达成总进程].
+GetText Failed, cur_lang[zh_CN], text_key[胜/败].
+GetText Failed, cur_lang[zh_CN], text_key[获得经验].
+GetText Failed, cur_lang[zh_CN], text_key[获得C币].
+GetText Failed, cur_lang[zh_CN], text_key[基本获得].
+GetText Failed, cur_lang[zh_CN], text_key[恭喜你完成了每日任务
+  快去领取奖励吧！].
+GetText Failed, cur_lang[zh_CN], text_key[前去领奖].
+GetText Failed, cur_lang[zh_CN], text_key[任务目标].
+GetText Failed, cur_lang[zh_CN], text_key[任务进度：].
+GetText Failed, cur_lang[zh_CN], text_key[任务奖励].
+GetText Failed, cur_lang[zh_CN], text_key[VIP额外获得].
+GetText Failed, cur_lang[zh_CN], text_key[新手任务].
+GetText Failed, cur_lang[zh_CN], text_key[每周任务].
+GetText Failed, cur_lang[zh_CN], text_key[活动].
+GetText Failed, cur_lang[zh_CN], text_key[关闭任务界面并返回至战区].
+GetText Failed, cur_lang[zh_CN], text_key[我的名字].
+GetText Failed, cur_lang[zh_CN], text_key[战队经验].
+GetText Failed, cur_lang[zh_CN], text_key[你今日获得的战队经验已达上限].
+GetText Failed, cur_lang[zh_CN], text_key[保存录像].
+GetText Failed, cur_lang[zh_CN], text_key[获得经验:].
+GetText Failed, cur_lang[zh_CN], text_key[经验].
+GetText Failed, cur_lang[zh_CN], text_key[基础获得].
+GetText Failed, cur_lang[zh_CN], text_key[网吧].
+GetText Failed, cur_lang[zh_CN], text_key[道具].
+GetText Failed, cur_lang[zh_CN], text_key[获得C币:].
+GetText Failed, cur_lang[zh_CN], text_key[你总共获得了  次翻牌机会].
+GetText Failed, cur_lang[zh_CN], text_key[剩余时间:].
+GetText Failed, cur_lang[zh_CN], text_key[分数].
+GetText Failed, cur_lang[zh_CN], text_key[胜利翻牌奖励].
+GetText Failed, cur_lang[zh_CN], text_key[拾取到的BOSS掉落奖励].
+GetText Failed, cur_lang[zh_CN], text_key[剩余0次].
+GetText Failed, cur_lang[zh_CN], text_key[我的预测].
+GetText Failed, cur_lang[zh_CN], text_key[预测明天].
+GetText Failed, cur_lang[zh_CN], text_key[预测奖励].
+GetText Failed, cur_lang[zh_CN], text_key[免费每日领取].
+GetText Failed, cur_lang[zh_CN], text_key[签到3天].
+GetText Failed, cur_lang[zh_CN], text_key[签到7天].
+GetText Failed, cur_lang[zh_CN], text_key[签到14天].
+GetText Failed, cur_lang[zh_CN], text_key[签到21天].
+GetText Failed, cur_lang[zh_CN], text_key[签到30天].
+GetText Failed, cur_lang[zh_CN], text_key[关闭每日签到].
+GetText Failed, cur_lang[zh_CN], text_key[普通模式].
+GetText Failed, cur_lang[zh_CN], text_key[剩余参战人数：].
+GetText Failed, cur_lang[zh_CN], text_key[X1].
+GetText Failed, cur_lang[zh_CN], text_key[生化感染模式].
+GetText Failed, cur_lang[zh_CN], text_key[剩余10天].
+GetText Failed, cur_lang[zh_CN], text_key[规则:].
+GetText Failed, cur_lang[zh_CN], text_key[点击卡牌选择(取消)带入游戏的角色
+
+各个模式的参战人数限制不同
+
+点击未解锁的生化体可快速购买].
+GetText Failed, cur_lang[zh_CN], text_key[关闭参战名单].
+GetText Failed, cur_lang[zh_CN], text_key[100FC/1天].
+GetText Failed, cur_lang[zh_CN], text_key[勋章].
+GetText Failed, cur_lang[zh_CN], text_key[复活币].
+GetText Failed, cur_lang[zh_CN], text_key[能量陨石].
+GetText Failed, cur_lang[zh_CN], text_key[钛合金石].
+GetText Failed, cur_lang[zh_CN], text_key[原子硅石].
+GetText Failed, cur_lang[zh_CN], text_key[VIP专区].
+GetText Failed, cur_lang[zh_CN], text_key[合 成].
+GetText Failed, cur_lang[zh_CN], text_key[熔炼等级达到2级以上才可合成].
+GetText Failed, cur_lang[zh_CN], text_key[请选择一位好友].
+GetText Failed, cur_lang[zh_CN], text_key[兑换].
+GetText Failed, cur_lang[zh_CN], text_key[兑换结算].
+GetText Failed, cur_lang[zh_CN], text_key[选择子弹后进入靶场].
+GetText Failed, cur_lang[zh_CN], text_key[进入黄金靶场].
+GetText Failed, cur_lang[zh_CN], text_key[进入白银靶场].
+GetText Failed, cur_lang[zh_CN], text_key[白银靶场].
+GetText Failed, cur_lang[zh_CN], text_key[黄金靶场].
+GetText Failed, cur_lang[zh_CN], text_key[游戏规则：].
+GetText Failed, cur_lang[zh_CN], text_key[使用白银/黄金子弹进入白银/黄金靶场].
+GetText Failed, cur_lang[zh_CN], text_key[偷看可以看到标靶后面的奖励].
+GetText Failed, cur_lang[zh_CN], text_key[当本轮的奖励都不合你意时，可以使用刷新功能].
+GetText Failed, cur_lang[zh_CN], text_key[连续射击达到规定的次数可以获得丰厚连射奖励].
+GetText Failed, cur_lang[zh_CN], text_key[退出靶场连射次数自动重置].
+GetText Failed, cur_lang[zh_CN], text_key[购买子弹].
+GetText Failed, cur_lang[zh_CN], text_key[本次限时抢购
+剩余时间].
+GetText Failed, cur_lang[zh_CN], text_key[3天].
+GetText Failed, cur_lang[zh_CN], text_key[抢购规则].
+GetText Failed, cur_lang[zh_CN], text_key[■ 拍卖时间：周六的10：00至16：00
+
+■ 出价相同时，先出价者排名在前
+
+■ 每次成功出价扣除相应的物品个数
+
+■ 拍得物品在拍卖结束后的次日0点
+   发放给各位玩家
+
+■ 出价失败，返还的物品在拍卖结束后
+   的次日0点发放给各位玩家
+
+■ 点击刷新按钮可更新当前最新的报价].
+GetText Failed, cur_lang[zh_CN], text_key[稀有宝箱].
+GetText Failed, cur_lang[zh_CN], text_key[我的出价：].
+GetText Failed, cur_lang[zh_CN], text_key[剩余数量].
+GetText Failed, cur_lang[zh_CN], text_key[最低价].
+GetText Failed, cur_lang[zh_CN], text_key[黄金卡].
+GetText Failed, cur_lang[zh_CN], text_key[最高价].
+GetText Failed, cur_lang[zh_CN], text_key[查看].
+GetText Failed, cur_lang[zh_CN], text_key[出价].
+GetText Failed, cur_lang[zh_CN], text_key[卓越宝箱].
+GetText Failed, cur_lang[zh_CN], text_key[精良宝箱].
+GetText Failed, cur_lang[zh_CN], text_key[用来开启黄金宝盒的特定密码卡。].
+GetText Failed, cur_lang[zh_CN], text_key[你的出价].
+GetText Failed, cur_lang[zh_CN], text_key[当前最低价].
+GetText Failed, cur_lang[zh_CN], text_key[设置二级密码].
+GetText Failed, cur_lang[zh_CN], text_key[设置二级密码后，在游戏中进行敏感操作时将先进行二级
+密码验证，以保证你的虚拟财产安全。].
+GetText Failed, cur_lang[zh_CN], text_key[设置密码].
+GetText Failed, cur_lang[zh_CN], text_key[6~18位字符，可由字母和数字组成。].
+GetText Failed, cur_lang[zh_CN], text_key[确认密码].
+GetText Failed, cur_lang[zh_CN], text_key[请再次确认密码。].
+GetText Failed, cur_lang[zh_CN], text_key[修改二级密码].
+GetText Failed, cur_lang[zh_CN], text_key[你已经使用忘记密码功能，密码将在3天后被清除，
+在此期间验证密码将会退出清除状态].
+GetText Failed, cur_lang[zh_CN], text_key[请输入旧密码].
+GetText Failed, cur_lang[zh_CN], text_key[忘记密码].
+GetText Failed, cur_lang[zh_CN], text_key[请输入新密码].
+GetText Failed, cur_lang[zh_CN], text_key[请再次输入密码].
+GetText Failed, cur_lang[zh_CN], text_key[请确认强制清除二级密码吗？].
+GetText Failed, cur_lang[zh_CN], text_key[二级密码验证].
+GetText Failed, cur_lang[zh_CN], text_key[根据你的操作进行敏感操作前需要进行二级密码确认。].
+GetText Failed, cur_lang[zh_CN], text_key[输入密码].
+GetText Failed, cur_lang[zh_CN], text_key[
+
+
+
+
+
+               激活VIP可享受豪华VIP特权].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得50%奖励（下一级60%）
+2.过关结算可获得额外50%经验、C币加成（下一级70%）
+3.额外的强化成功率+5%
+4.免费兑换加入更多精彩道具 
+5.开启VIP箱权利
+6.过关结算时可以多1次翻牌的机会
+7.中途退出游戏可保留正常游戏的收益
+8.离开战队会保留30%的贡献值
+9.每日战队战贡献上限增加100
+10.为战队充能战队会多获得50%的战队经验（下一级60%）
+11.为战队充能会多获得50%的贡献值（下一级60%）
+12.在线奖励时间周期缩短一半
+13.增加改装成功率
+14.可获得免费补签和提前签到机会共3次
+15.增加游戏内每日踢人次数1次
+16.每天可猜数字3个
+17.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+20.VIP专属头像(根据VIP等级变换)
+21.VIP标示].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得60%奖励（下一级70%）
+2.过关结算可获得额外70%经验、C币加成（下一级90%）
+3.额外的强化成功率+5%（下一级10%）
+4.VIP商城加入更多精彩道具 
+5.免费兑换加入更多精彩道具 
+6.开启VIP箱权利
+7.过关结算时可以多1次翻牌的机会（下一级2次）
+8.中途退出游戏可保留正常游戏的收益
+9.离开战队会保留30%的贡献值（下一级40%）
+10.每日战队战贡献上限增加100（下一级200）
+11.为战队充能战队会多获得60%的战队经验（下一级70%）
+12.为战队充能会多获得60%的贡献值（下一级70%）
+13.在线奖励时间周期缩短一半
+14.增加改装成功率
+15.可获得免费补签和提前签到机会共3次（下一级4次）
+16.增加游戏内每日踢人次数1次
+17.每天可猜数字3个
+18.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+21.VIP专属头像(根据VIP等级变换)
+22.VIP标示].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得70%奖励（下一级80%）
+2.过关结算可获得额外90%经验、C币加成（下一级110%）
+3.额外的强化成功率+10%
+4.拼图开始时直接点亮3张
+5.VIP商城加入更多精彩道具 
+6.免费兑换加入更多精彩道具 
+7.开启VIP箱权利
+8.过关结算时可以多2次翻牌的机会
+9.中途退出游戏可保留正常游戏的收益
+10.离开战队会保留40%的贡献值
+11.每日战队战贡献上限增加200
+12.为战队充能战队会多获得70%的战队经验（下一级80%）
+13.为战队充能会多获得70%的贡献值（下一级80%）
+14.在线奖励时间周期缩短一半
+15.增加改装成功率
+16.可获得免费补签和提前签到机会共4次
+17.增加游戏内每日踢人次数1次
+18.每天可猜数字3个
+19.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+22.VIP专属头像(根据VIP等级变换)
+23.VIP标示].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得80%奖励（下一级90%）
+2.过关结算可获得额外110%经验、C币加成（下一级130%）
+3.额外的强化成功率+10%（下一级15%）
+4.拼图开始时直接点亮3张（下一级4张）
+5.VIP商城加入更多精彩道具 
+6.免费兑换加入更多精彩道具 
+7.开启VIP箱权利
+8.过关结算时可以多2次翻牌的机会（下一级3次）
+9.中途退出游戏可保留正常游戏的收益
+10.离开战队会保留40%的贡献值（下一级50%）
+11.每日战队战贡献上限增加200（下一级400）
+12.为战队充能战队会多获得80%的战队经验（下一级90%）
+13.为战队充能会多获得80%的贡献值（下一级90%）
+14.在线奖励时间周期缩短一半
+15.大幅增加改装成功率
+16.可获得免费补签和提前签到机会共4次（下一级5次）
+17.熔能无限制
+18.增加游戏内每日踢人次数1次
+19.每天可猜数字3个
+20.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+23.VIP专属头像(根据VIP等级变换)
+24.VIP标示].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得90%奖励（下一级100%）
+2.过关结算可获得额外130%经验、C币加成（下一级150%）
+3.额外的强化成功率+15%
+4.解锁强化等级至13
+5.拼图开始时直接点亮4张
+6.VIP商城加入更多精彩道具 
+7.免费兑换加入更多精彩道具 
+8.开启VIP箱权利
+9.过关结算时可以多3次翻牌的机会
+10.中途退出游戏可保留正常游戏的收益
+11.离开战队会保留50%的贡献值
+12.每日战队战贡献上限增加400
+13.为战队充能战队会多获得90%的战队经验（下一级100%）
+14.为战队充能会多获得90%的贡献值（下一级100%）
+15.在线奖励时间周期缩短一半
+16.大幅增加改装成功率
+17.可获得免费补签和提前签到机会（共5次）
+18.熔能无限制
+19.增加游戏内每日踢人次数1次
+20.每天可猜数字3个
+21.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+24.VIP专属头像(根据VIP等级变换)
+25.VIP标示].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得100%奖励（下一级110%）
+2.过关结算可获得额外150%经验、C币加成（下一级160%）
+3.额外的强化成功率+15%（下一级+20%）
+4.解锁强化等级至14（下一级15）
+5.拼图开始时直接点亮4张（下一级5张）
+6.VIP商城加入更多精彩道具 
+7.免费兑换加入更多精彩道具 
+8.开启VIP箱权利
+9.过关结算时可以多3次翻牌的机会（下一级4次）
+10.中途退出游戏可保留正常游戏的收益
+11.离开战队会保留50%的贡献值（下一级60%）
+12.每日战队战贡献上限增加400
+13.为战队充能战队会多获得100%的战队经验（下一级110%）
+14.为战队充能会多获得100%的贡献值（下一级110%）
+15.在线奖励时间周期缩短一半
+16.大幅增加改装成功率
+17.可获得免费补签和提前签到机会（共5次，下一级6次）
+18.熔能无限制
+19.增加游戏内每日踢人次数1次
+20.每天可猜数字3个
+21.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+24.VIP专属头像(根据VIP等级变换)
+25.VIP标示].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得110%奖励（下一级120%）
+2.过关结算可获得额外160%经验、C币加成（下一级180%）
+3.额外的强化成功率+20% 
+4.解锁强化等级至15（下一级16）
+5.拼图开始时直接点亮5张 
+6.VIP商城加入更多精彩道具 
+7.免费兑换加入更多精彩道具 
+8.开启VIP箱权利
+9.过关结算时可以多4次翻牌的机会 
+10.中途退出游戏可保留正常游戏的收益
+11.离开战队会保留60%的贡献值 
+12.每日战队战贡献上限增加400
+13.为战队充能战队会多获得110%的战队经验（下一级120%）
+14.为战队充能会多获得110%的贡献值（下一级120%）
+15.在线奖励时间周期缩短一半
+16.大幅增加改装成功率
+17.可获得免费补签和提前签到机会（共6次）
+18.熔能无限制
+19.增加游戏内每日踢人次数1次
+20.每天可猜数字3个
+21.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+24.VIP专属头像(根据VIP等级变换)
+25.银钻VIP尊贵皇冠标示 ].
+GetText Failed, cur_lang[zh_CN], text_key[1.完成每日、每周任务可额外获得120%奖励 
+2.过关结算可获得额外180%经验、C币加成 
+3.额外的强化成功率+20% 
+4.解锁强化等级至16 
+5.拼图开始时直接点亮5张 
+6.VIP商城加入更多精彩道具 
+7.免费兑换加入更多精彩道具 
+8.开启VIP箱权利
+9.过关结算时可以多4次翻牌的机会 
+10.中途退出游戏可保留正常游戏的收益
+11.离开战队会保留60%的贡献值 
+12.每日战队战贡献上限增加400
+14.为战队充能战多获得120%的战队经验 
+14.为战队充能会多获得120%的贡献值 
+15.在线奖励时间周期缩短一半
+16.大幅增加改装成功率
+17.可获得免费补签和提前签到机会（共6次）
+18.熔能无限制
+19.增加游戏内每日踢人次数1次
+20.每天可猜数字3个
+21.游戏中TAB，游戏房间内、排行榜的VIP等级缎带更加绚丽
+23.VIP专属名片
+24.VIP专属头像(根据VIP等级变换)
+25.金钻VIP尊贵皇冠标示
+26.指定VIP经验可领取金钻尊享武器、服饰箱].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.VIP商城加入更多精彩道具 ].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.拼图开始时直接点亮3张].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.熔能无限制].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.解锁强化等级至13].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.解锁强化等级至14].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.银钻vip尊贵皇冠标帜
+2.解锁强化等级至15].
+GetText Failed, cur_lang[zh_CN], text_key[
+1.金钻vip尊贵皇冠标帜
+2.指定经验点可领取金钻尊享武器或服装
+3.解锁强化等级至16].
+GetText Failed, cur_lang[zh_CN], text_key[您现在的VIP等级：].
+GetText Failed, cur_lang[zh_CN], text_key[距离下一级：30000].
+GetText Failed, cur_lang[zh_CN], text_key[VIP经验：800].
+GetText Failed, cur_lang[zh_CN], text_key[购买并使用VIP道具立即成为VIP1，
+享受豪华VIP特权].
+GetText Failed, cur_lang[zh_CN], text_key[114000].
+GetText Failed, cur_lang[zh_CN], text_key[领取经验：].
+GetText Failed, cur_lang[zh_CN], text_key[91200].
+GetText Failed, cur_lang[zh_CN], text_key[金钻专享武器].
+GetText Failed, cur_lang[zh_CN], text_key[VIP等级说明：].
+GetText Failed, cur_lang[zh_CN], text_key[1.玩家每升一级VIP等级都会新增更多的收益和权限
+2.未激活VIP或VIP期限到期将无法通过游戏手段获得VIP经验
+3.玩家每天领取签到奖励、在线时长奖励；完成每日任务；
+充值FC点；购买VIP经验道具都可获得VIP经验（VIP0时充值FC点仍可以积累VIP经验）].
+GetText Failed, cur_lang[zh_CN], text_key[您还未激活高级VIP状态].
+GetText Failed, cur_lang[zh_CN], text_key[快速激活].
+GetText Failed, cur_lang[zh_CN], text_key[剩余天数0天].
+GetText Failed, cur_lang[zh_CN], text_key[升级机枪塔].
+GetText Failed, cur_lang[zh_CN], text_key[返还你黑铁].
+GetText Failed, cur_lang[zh_CN], text_key[返还你].
+GetText Failed, cur_lang[zh_CN], text_key[建造时间：].
+GetText Failed, cur_lang[zh_CN], text_key[花费FC点可以立即完成建造].
+GetText Failed, cur_lang[zh_CN], text_key[等级1].
+GetText Failed, cur_lang[zh_CN], text_key[等级2].
+GetText Failed, cur_lang[zh_CN], text_key[等级3].
+GetText Failed, cur_lang[zh_CN], text_key[等级4].
+GetText Failed, cur_lang[zh_CN], text_key[等级5].
+GetText Failed, cur_lang[zh_CN], text_key[介绍].
+GetText Failed, cur_lang[zh_CN], text_key[提示：点击框选部分详细查看].
+GetText Failed, cur_lang[zh_CN], text_key[*标题:].
+GetText Failed, cur_lang[zh_CN], text_key[q号:].
+GetText Failed, cur_lang[zh_CN], text_key[手机号:].
+GetText Failed, cur_lang[zh_CN], text_key[*问题类型:].
+GetText Failed, cur_lang[zh_CN], text_key[举报或建议].
+GetText Failed, cur_lang[zh_CN], text_key[*问题描述:].
+GetText Failed, cur_lang[zh_CN], text_key[你提我改].
+GetText Failed, cur_lang[zh_CN], text_key[玩家可以通过你提我改进行游戏bug以及建议的提交,].
+GetText Failed, cur_lang[zh_CN], text_key[感谢您的支持和参与！].
+GetText Failed, cur_lang[zh_CN], text_key[以上带*号为必填项].
+GetText Failed, cur_lang[zh_CN], text_key[重 置].
+GetText Failed, cur_lang[zh_CN], text_key[请选择要举报的玩家].
+GetText Failed, cur_lang[zh_CN], text_key[举报理由].
+GetText Failed, cur_lang[zh_CN], text_key[使用外挂].
+GetText Failed, cur_lang[zh_CN], text_key[无理谩骂].
+GetText Failed, cur_lang[zh_CN], text_key[其它].
+GetText Failed, cur_lang[zh_CN], text_key[问题描述].
+GetText Failed, cur_lang[zh_CN], text_key[返回游戏].
+GetText Failed, cur_lang[zh_CN], text_key[设置选项].
+GetText Failed, cur_lang[zh_CN], text_key[登录界面 ].
+GetText Failed, cur_lang[zh_CN], text_key[退出游戏 ].
+GetText Failed, cur_lang[zh_CN], text_key[今日表现].
+GetText Failed, cur_lang[zh_CN], text_key[击杀].
+GetText Failed, cur_lang[zh_CN], text_key[助攻].
+GetText Failed, cur_lang[zh_CN], text_key[死亡].
+GetText Failed, cur_lang[zh_CN], text_key[获得分数].
+GetText Failed, cur_lang[zh_CN], text_key[获得经验值].
+GetText Failed, cur_lang[zh_CN], text_key[当前等级].
+GetText Failed, cur_lang[zh_CN], text_key[距离升级还需经验值].
+GetText Failed, cur_lang[zh_CN], text_key[您已经达到顶级].
+GetText Failed, cur_lang[zh_CN], text_key[当前VIP等级].
+GetText Failed, cur_lang[zh_CN], text_key[您还不是VIP，无法获得经验].
+GetText Failed, cur_lang[zh_CN], text_key[我的任务].
+GetText Failed, cur_lang[zh_CN], text_key[继续游戏].
+GetText Failed, cur_lang[zh_CN], text_key[退出游戏].
+GetText Failed, cur_lang[zh_CN], text_key[经验奖励：0].
+GetText Failed, cur_lang[zh_CN], text_key[恭喜您获得了在线时长奖励，
+请去仓库查看].
+Start  Apex
+
+GetText Failed, cur_lang[zh_CN], text_key[排 名].
+GetText Failed, cur_lang[zh_CN], text_key[胜率].
+GetText Failed, cur_lang[zh_CN], text_key[胜/负场次].
+GetText Failed, cur_lang[zh_CN], text_key[等].
+GetText Failed, cur_lang[zh_CN], text_key[级].
+GetText Failed, cur_lang[zh_CN], text_key[地区].
+GetText Failed, cur_lang[zh_CN], text_key[创建时间].
+GetText Failed, cur_lang[zh_CN], text_key[次].
+GetText Failed, cur_lang[zh_CN], text_key[人].
+GetText Failed, cur_lang[zh_CN], text_key[助攻次数].
+GetText Failed, cur_lang[zh_CN], text_key[刀杀次数].
+GetText Failed, cur_lang[zh_CN], text_key[最大爆头数].
+GetText Failed, cur_lang[zh_CN], text_key[最大连杀数].
+GetText Failed, cur_lang[zh_CN], text_key[最大治疗量].
+GetText Failed, cur_lang[zh_CN], text_key[生命].
+GetText Failed, cur_lang[zh_CN], text_key[最大破坏力].
+GetText Failed, cur_lang[zh_CN], text_key[伤害].
+GetText Failed, cur_lang[zh_CN], text_key[最长存活时间].
+GetText Failed, cur_lang[zh_CN], text_key[秒].
+GetText Failed, cur_lang[zh_CN], text_key[本场最强次数].
+GetText Failed, cur_lang[zh_CN], text_key[1000 C币].
+GetText Failed, cur_lang[zh_CN], text_key[查 看].
+GetText Failed, cur_lang[zh_CN], text_key[使用青铜卡].
+GetText Failed, cur_lang[zh_CN], text_key[使用勋章].
+GetText Failed, cur_lang[zh_CN], text_key[2000 C币].
+GetText Failed, cur_lang[zh_CN], text_key[使用白银卡].
+GetText Failed, cur_lang[zh_CN], text_key[3000 C币].
+GetText Failed, cur_lang[zh_CN], text_key[使用黄金卡].
+2321NotifyUpdateLevelList
+432432
+Connecting channel 127.0.0.1:9024, tcp_mode
+GetText Failed, cur_lang[zh_CN], text_key[进入频道：%s].
+GetText Failed, cur_lang[zh_CN], text_key[进入房间：%s].
+RequestRoomClientListRequestRoomClientListRequestRoomClientListRequestRoomClientList1111111
+RequestRoomClientListRequestRoomClientListRequestRoomClientListRequestRoomClientList2222222
+client_countclient_countclient_countclient_cds454555555555555555555555555555555555555555555551client_countclient_countclient_countclient_countclient_countclient_count1:0
+client_countclient_countclient_countclient_cds1111111111111111client_countclient_countclient_countclient_countclient_countclient_count1:0
+client_countclient_countclient_countclient_countclient_coun666666666666666666666client_countclient_countclient_countclient_countclient_countclient_count1:0
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1
+character name : LocalUser, id : 100081, my id : 100081
+size = 84
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[你可以创建一个聊天群！].
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+action : enter game
+GetText Failed, cur_lang[zh_CN], text_key[好的，收到！].
+GetText Failed, cur_lang[zh_CN], text_key[前方发现敌人！].
+GetText Failed, cur_lang[zh_CN], text_key[我需要掩护！].
+GetText Failed, cur_lang[zh_CN], text_key[前方安全！].
+GetText Failed, cur_lang[zh_CN], text_key[跟我来！].
+GetText Failed, cur_lang[zh_CN], text_key[小心火焰兵偷袭！].
+GetText Failed, cur_lang[zh_CN], text_key[小心敌人狙击手！].
+GetText Failed, cur_lang[zh_CN], text_key[我们需要重机枪手！].
+GetText Failed, cur_lang[zh_CN], text_key[做的漂亮！].
+GetText Failed, cur_lang[zh_CN], text_key[坚守阵地！].
+GetText Failed, cur_lang[zh_CN], text_key[大家快去占点！].
+GetText Failed, cur_lang[zh_CN], text_key[大家快去推车！].
+GetText Failed, cur_lang[zh_CN], text_key[冲！冲！冲！].
+GetText Failed, cur_lang[zh_CN], text_key[大家分散开！].
+GetText Failed, cur_lang[zh_CN], text_key[集合一下！].
+GetText Failed, cur_lang[zh_CN], text_key[向前移动].
+GetText Failed, cur_lang[zh_CN], text_key[向左移动].
+GetText Failed, cur_lang[zh_CN], text_key[向右移动].
+GetText Failed, cur_lang[zh_CN], text_key[向后移动].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在游戏中，您可以按键盘上z、x、c，呼出无线电菜单].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在游戏中选择职业将会在下次重生以后生效].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在游戏中按“b”键可更换职业].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：您在游戏中战斗获得的积分越多，在结算时就可能获得更多的翻牌机会].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：地图中的医疗包和弹药包拾取过后每隔一段时间会重新刷新].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：记住医疗包和弹药包有利于您在战场上存活更长时间].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：拾取地图中的医疗包可以熄灭身上的火焰].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：拾取敌人掉落的武器可以补充自己的弹药喔！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：您可以在个人信息界面里更换自己的头像].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：点击“查看详情”按钮可以查看你的个人信息].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在好友列表中可以右键点击好友，选择与好友一起游戏].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：游戏内按esc键可以呼出“你提我改”界面].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：当玩家被踢出房间后，该房间一段时间内无法再次进入].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：只有在3人以上的房间才能记录成就所需的条件喔].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在游戏设置中可对狙击手以及突击手主武器开镜后的灵敏度进行单独调整].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在第一次进入对战前最好先去训练关了解下每个职业的特性].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在占点和推车模式中，只有胜利的一方才能拾取掉落的金币！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：占点模式中，.一旦占领了据点，即使不站在据点范围内时间也会倒数。].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：占点模式中，在据点范围内的同伴越多占点速度就会越快！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：推车模式中，在运输车周围的同伴越多运输车的移动速度就会越快！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：推车模式中，在运输车周围会得到弹药和血量补给。].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：歼灭模式中，单回合内玩家无法复活].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：团队竞技模式中，多兵种配合会更容易取得胜利！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：刀战模式中，和队友一起行动才是生存之道].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：英雄模式中，如果对方的人数越多，己方的英雄也会越强大].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：英雄模式中，如果你拿刀，可以无限复活，如果你拿枪的话要小心，你没有机会复活].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：爆破模式中，无论是埋雷还是拆雷前，一定要先确定你的周围没有敌人].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：爆破模式中，雷包的爆炸时间很短，在得知雷包已被埋下后要赶紧前去拆雷].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：如果你是埋雷方，随时观察持雷包队友的位置，以便保护其安全埋雷].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：如果你是拆雷方，在击杀对方持雷包敌人后，守住掉落的雷包是胜利的关键].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：当房间内玩家数不多的时候，记得邀请你的好友一起来游戏].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：根据当前战斗形势选择适当的职业以取得战场上的优势！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：部分兵种道具有冷却时间，冷却完毕以后可重复使用！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：火箭炮有是范围伤害，所以瞄准对方的脚底或是旁边的墙壁是不错的选择].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：使用战鼓时，周围的同伴同样会得到攻击加成的效果].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：重机枪手的血量是最多的，尽量站在前面为队友抵挡攻击吧！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：转轮枪远距离伤害很低，近距离的伤害很高！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：转轮枪按住右键可以进行热枪，热枪状态时可以随时开火！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：如果使用重机枪手进攻时远处有狙击手或突击手的话还是绕道走比较好].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：重机枪手使用奶瓶时无法移动和攻击。所以藏在不被人发现的角落再使用吧！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：狙击枪开镜时充电槽满格的时候，威力最大！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：狙击手使用狙击枪击中敌人头部能给予致命伤害！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：狙击手很脆弱，尽量不要处于交火区域的最前线].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：突击手属于战斗支援型职业，所以尽量和同伴一起行动吧].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：突击手使用自动步枪时可以按鼠标右键开镜瞄准以获得更稳定的射击].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：突击手按数字键“4”可选择投掷类武器].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：突击手使用自动步枪击中敌人头部能给予极大伤害！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：使用喷火枪时弹药消耗的很快。所以在战斗时要时刻注意自己的弹量].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：喷火枪可以对敌人造成持续的燃烧伤害！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：使用喷火枪时，按右键可以为队友熄灭身上的火焰].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：喷火枪的射击距离有限。抓准时机近距离偷袭对手是很有效的战术].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：火焰弹发射器射出的火焰弹飞的越远伤害越高！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：每局游戏之后别忘记去任务界面查看完成进度或是领取奖品哦！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：游戏商城内购买武器后会自动装备].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：随意搭配您的衣服、帽子和徽章，打造自己个性化的角色吧！].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在商城页面中，您可以用右键随意拖拽物品到人物身上来预览和装备].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在个人仓库页面里，您可以用右键随意拖拽物品到人物身上来装备物品].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：经常在好友列表中使用右键菜单中的“查看信息”功能以关注好友动态].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：风车小镇的小巷通常是交火密集区域].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：乡间伐木场的地下通道是进入高楼二楼的捷径].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：法老神殿中的坡路会导致运输车下滑].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：boss战中，boss的某些技能会造成灼烧及鼠标反转等特殊效果].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在游戏中按“f“键可以呼叫医生，使附近的医疗兵玩家知道你受伤了].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：每天登陆游戏后别忘记点击“每日签到“以及”免费领取“哦].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：累计一定数量的“每日签到“可以获得丰厚的奖励].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：保持一定时间的在线时长可以获得丰厚的奖励].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在“参战名单“中可以选择最喜欢的5个职业进入游戏].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：强化武器和装备可以大幅提升你的战斗力].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：各职业的特殊武器不能被强化].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：只能对永久时限的基础白色装备进行强化].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：尽可能多的获取“强化部件“，因为他是强化过程中必不可少的道具].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：“增幅装置“可以有效的提高强化时的成功几率].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：只有同类型的装备可以进行转换，但是可以是不同职业的].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：装备的物品过期的情况下，进入游戏时会自动替换为初始装备].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：邮件系统将会对您快过期的物品进行提示].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：每日任务可以让您在游戏过程中获得更多奖励].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在游戏中投票踢人只能选取本方阵营的玩家].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：角色等级达到20级后可创建战队].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：“每日任务”和“每周任务”是帮助你获得各种道具的最好途径].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：完成任务后记得去领取奖励哦].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：来预测每天的幸运数字试试你的运气吧].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：武器装备每强化一定等级，外观都会变得更为炫丽].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：武器装备每强化一定等级，都会相应的增加1个属性槽位].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在强化高级装备时记得使用“安定装置“来减少风险].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：如果幸运的获得了“强化增幅装置“，一定记得在最重要的时候去使用它].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：在属性槽位插入属性部件需要先对该槽位进行打孔，插入合理的属性部件会使战斗力更上一层楼].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：属性部件在被插入时会随机产生一种属性，如果对属性不满意可以点击“移除“来清除该属性].
+GetText Failed, cur_lang[zh_CN], text_key[小提示：转换系统可以把一件装备上的强化等级和属性部件完全的转换到另一件装备上].
+GetText Failed, cur_lang[zh_CN], text_key[风车小镇].
+WeaponInfo::LoadPart() : load icon error[rocket05001 1]
+WeaponInfo::LoadPart() : load icon error[rspas 1]
+WeaponInfo::LoadPart() : load icon error[fireaxe 1]
+WeaponInfo::LoadPart() : load icon error[rocket05001 1]
+WeaponInfo::LoadPart() : load icon error[rocket05001 1]
+GetText Failed, cur_lang[zh_CN], text_key[登录界面].
+GetText Failed, cur_lang[zh_CN], text_key[返回大厅].
+GetText Failed, cur_lang[zh_CN], text_key[保存并退出].
+GetText Failed, cur_lang[zh_CN], text_key[投票踢人].
+GetText Failed, cur_lang[zh_CN], text_key[我要举报].
+GetText Failed, cur_lang[zh_CN], text_key[选择角色后会在下次重生时生效].
+GetText Failed, cur_lang[zh_CN], text_key[选择你要放置的建筑].
+GetText Failed, cur_lang[zh_CN], text_key[可放置].
+GetText Failed, cur_lang[zh_CN], text_key[：].
+GetText Failed, cur_lang[zh_CN], text_key[已放置].
+GetText Failed, cur_lang[zh_CN], text_key[建筑].
+GetText Failed, cur_lang[zh_CN], text_key[取消所有配置].
+GetText Failed, cur_lang[zh_CN], text_key[更换职业].
+GetText Failed, cur_lang[zh_CN], text_key[保存游戏精彩时刻].
+GetText Failed, cur_lang[zh_CN], text_key[%d 秒后，随机选择职业进入游戏].
+WeaponInfo::LoadPart() : load icon error[mk18 1]
+WeaponInfo::LoadPart() : load icon error[deserteagle 1]
+WeaponInfo::LoadPart() : load icon error[sword 1]
+WeaponInfo::LoadPart() : load icon error[grenade 1]
+GetText Failed, cur_lang[zh_CN], text_key[剩余%02d秒].
+GetText Failed, cur_lang[zh_CN], text_key[胜利目标].
+GetText Failed, cur_lang[zh_CN], text_key[消灭一切你看到的敌人].
+GetText Failed, cur_lang[zh_CN], text_key[等待回合开始].
+x = 1920, y = 1080
+GetText Failed, cur_lang[zh_CN], text_key[名次].
+GetText Failed, cur_lang[zh_CN], text_key[玩家].
+GetText Failed, cur_lang[zh_CN], text_key[职业].
+GetText Failed, cur_lang[zh_CN], text_key[击杀/死亡].
+GetText Failed, cur_lang[zh_CN], text_key[延时].
+GetText Failed, cur_lang[zh_CN], text_key[未选择].
+GetText Failed, cur_lang[zh_CN], text_key[模式 : 团队竞技].
+GetText Failed, cur_lang[zh_CN], text_key[地图名 : %s].
+GetText Failed, cur_lang[zh_CN], text_key[游戏目标 : 击杀先达到%d人获胜].
+GetText Failed, cur_lang[zh_CN], text_key[服务器 : %s].
+GetText Failed, cur_lang[zh_CN], text_key[自由频道1].
+GetText Failed, cur_lang[zh_CN], text_key[频道 : %s].
+GetText Failed, cur_lang[zh_CN], text_key[房间 : %s].
+x = 1920, y = 1080
+GetText Failed, cur_lang[zh_CN], text_key[今天你已无发起投票的权利。].
+GetText Failed, cur_lang[zh_CN], text_key[请确认带*号项都已经填写完整！].
+GetText Failed, cur_lang[zh_CN], text_key[您确定要退出本场游戏吗？
+中途退出将无法获得任何收益].
+GetText Failed, cur_lang[zh_CN], text_key[正在退出本场游戏...].
+GetText Failed, cur_lang[zh_CN], text_key[恭喜你，获得了以下奖励！！！].
+GetText Failed, cur_lang[zh_CN], text_key[他最有爱的武器].
+GetText Failed, cur_lang[zh_CN], text_key[超级给力火箭筒 MK-11].
+GetText Failed, cur_lang[zh_CN], text_key[获得经验#None].
+GetText Failed, cur_lang[zh_CN], text_key[获得能量#我的总能量#None].
+GetText Failed, cur_lang[zh_CN], text_key[获得经验#None#获得能量#我的总能量].
+GetText Failed, cur_lang[zh_CN], text_key[获得奖励].
+GetText Failed, cur_lang[zh_CN], text_key[请在   秒内选择宝箱].
+GetText Failed, cur_lang[zh_CN], text_key[进攻方获得：    88888888].
+GetText Failed, cur_lang[zh_CN], text_key[玩家昵称].
+GetText Failed, cur_lang[zh_CN], text_key[进攻方消耗].
+GetText Failed, cur_lang[zh_CN], text_key[防守方剩余：    88888888].
+GetText Failed, cur_lang[zh_CN], text_key[防守方消耗].
+GetText Failed, cur_lang[zh_CN], text_key[我的获得].
+GetText Failed, cur_lang[zh_CN], text_key[队长加成].
+GetText Failed, cur_lang[zh_CN], text_key[总计].
+GetText Failed, cur_lang[zh_CN], text_key[获得VIP经验].
+GetText Failed, cur_lang[zh_CN], text_key[VIP额外宝箱奖励].
+GetText Failed, cur_lang[zh_CN], text_key[VIP0].
+GetText Failed, cur_lang[zh_CN], text_key[VIP1解锁].
+GetText Failed, cur_lang[zh_CN], text_key[VIP4解锁].
+GetText Failed, cur_lang[zh_CN], text_key[银钻尊享].
+GetText Failed, cur_lang[zh_CN], text_key[金钻尊享].
+GetText Failed, cur_lang[zh_CN], text_key[额外奖励].
+GetText Failed, cur_lang[zh_CN], text_key[频道内没有玩家].
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[房主名称:].
+GetText Failed, cur_lang[zh_CN], text_key[游戏模式:].
+GetText Failed, cur_lang[zh_CN], text_key[胜利条件:].
+GetText Failed, cur_lang[zh_CN], text_key[自动开始:].
+GetText Failed, cur_lang[zh_CN], text_key[特殊职业战:].
+GetText Failed, cur_lang[zh_CN], text_key[中途加入:].
+GetText Failed, cur_lang[zh_CN], text_key[允许].
+GetText Failed, cur_lang[zh_CN], text_key[战力平衡:].
+GetText Failed, cur_lang[zh_CN], text_key[复活时间:].
+GetText Failed, cur_lang[zh_CN], text_key[头像].
+GetText Failed, cur_lang[zh_CN], text_key[开].
+GetText Failed, cur_lang[zh_CN], text_key[关].
+GetText Failed, cur_lang[zh_CN], text_key[观战].
+GetText Failed, cur_lang[zh_CN], text_key[-房间].
+GetText Failed, cur_lang[zh_CN], text_key[:].
+GetText Failed, cur_lang[zh_CN], text_key[LOCAL_STUB_DIRECT_TEST].
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[您可以在此与房间内玩家聊天].
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+RequestRoomClientListRequestRoomClientListRequestRoomClientListRequestRoomClientList1111111
+RequestRoomClientListRequestRoomClientListRequestRoomClientListRequestRoomClientList2222222
+size = 84
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+退出房间
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[序号].
+GetText Failed, cur_lang[zh_CN], text_key[职业战].
+GetText Failed, cur_lang[zh_CN], text_key[ 地图].
+GetText Failed, cur_lang[zh_CN], text_key[没有找到合适的房间].
+x = 1920, y = 1080
+x = 1920, y = 1080
+x = 1920, y = 1080
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+.\game\ChannelConnection.cpp, Client::ChannelConnection::RequestRoomCreate
+size = 84
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[返　回].
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[正在创建房间,请稍候...].
+GetText Failed, cur_lang[zh_CN], text_key[离开房间：%s].
+GetText Failed, cur_lang[zh_CN], text_key[离开频道：%s].
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+ChannelConnection disconnect 
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+server_listserver_listserver_listserver_list111:5
+GetText Failed, cur_lang[zh_CN], text_key[频道名称].
+GetText Failed, cur_lang[zh_CN], text_key[连接人数].
+GetText Failed, cur_lang[zh_CN], text_key[新手频道1].
+GetText Failed, cur_lang[zh_CN], text_key[通畅].
+GetText Failed, cur_lang[zh_CN], text_key[新手频道2].
+GetText Failed, cur_lang[zh_CN], text_key[新手频道3].
+GetText Failed, cur_lang[zh_CN], text_key[您与服务器已断开连接，请重新登录！].
+x = 1920, y = 1080
+End  Apex
+
